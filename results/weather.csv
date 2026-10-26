@@ -1,0 +1,9 @@
+precipitation,incidents
+None,23506
+Rain,1350
+Fog,475
+Snow,89
+"Fog, Rain",85
+"Rain, Snow",6
+"Fog, Snow",4
+"Fog, Rain, Snow",3

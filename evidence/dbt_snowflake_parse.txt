@@ -1,0 +1,2 @@
+03:56:06  Running with dbt=1.9.10
+03:56:07  Registered adapter: snowflake=1.9.4

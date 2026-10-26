@@ -1,0 +1,4 @@
+-r requirements-local-dbt.txt
+-r requirements-snowflake.txt
+black==25.1.0
+sqlglot==26.33.0

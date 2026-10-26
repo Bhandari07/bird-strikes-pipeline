@@ -1,0 +1,30 @@
+bird_strikes:
+  target: snowflake
+  outputs:
+    snowflake:
+      type: snowflake
+      account: "{{ env_var('SNOWFLAKE_ACCOUNT', 'not_configured') }}"
+      user: "{{ env_var('SNOWFLAKE_USER', 'not_configured') }}"
+      role: "{{ env_var('SNOWFLAKE_ROLE', 'not_configured') }}"
+      database: "{{ env_var('SNOWFLAKE_DATABASE', 'BIRD_STRIKES_ASSESSMENT') }}"
+      warehouse: "{{ env_var('SNOWFLAKE_WAREHOUSE', 'BIRD_STRIKES_WH') }}"
+      schema: BUILD
+      authenticator: externalbrowser
+      threads: 1
+      client_session_keep_alive: false
+    snowflake_keypair:
+      type: snowflake
+      account: "{{ env_var('SNOWFLAKE_ACCOUNT', 'not_configured') }}"
+      user: "{{ env_var('SNOWFLAKE_USER', 'not_configured') }}"
+      role: "{{ env_var('SNOWFLAKE_ROLE', 'not_configured') }}"
+      database: "{{ env_var('SNOWFLAKE_DATABASE', 'BIRD_STRIKES_ASSESSMENT') }}"
+      warehouse: "{{ env_var('SNOWFLAKE_WAREHOUSE', 'BIRD_STRIKES_WH') }}"
+      schema: BUILD
+      private_key_path: "{{ env_var('SNOWFLAKE_PRIVATE_KEY_PATH', '') }}"
+      private_key_passphrase: "{{ env_var('SNOWFLAKE_PRIVATE_KEY_PASSPHRASE', '') }}"
+      threads: 1
+    local:
+      type: duckdb
+      path: "{{ env_var('BIRD_STRIKES_DUCKDB', 'bird_strikes.duckdb') }}"
+      schema: build
+      threads: 1

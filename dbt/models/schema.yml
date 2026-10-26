@@ -1,0 +1,108 @@
+version: 2
+models:
+- name: stg_strikes
+  description: Explicitly typed fields from validated source payloads. Domain normalization
+    is shared with the loader.
+  columns:
+  - name: record_id
+    data_tests:
+    - unique
+    - not_null
+- name: fact_strike
+  description: One current row per wildlife incident. Counts represent reports, not
+    flight-adjusted risk.
+  columns:
+  - name: record_id
+    data_tests:
+    - unique
+    - not_null
+  - name: airport_key
+    data_tests:
+    - not_null
+    - relationships:
+        to: ref('dim_airport')
+        field: airport_key
+  - name: aircraft_key
+    data_tests:
+    - not_null
+    - relationships:
+        to: ref('dim_aircraft')
+        field: aircraft_key
+  - name: operator_key
+    data_tests:
+    - not_null
+    - relationships:
+        to: ref('dim_operator')
+        field: operator_key
+  - name: wildlife_key
+    data_tests:
+    - not_null
+    - relationships:
+        to: ref('dim_wildlife')
+        field: wildlife_key
+  - name: phase_key
+    data_tests:
+    - not_null
+    - relationships:
+        to: ref('dim_phase')
+        field: phase_key
+  - name: weather_key
+    data_tests:
+    - not_null
+    - relationships:
+        to: ref('dim_weather')
+        field: weather_key
+  - name: date_key
+    data_tests:
+    - not_null
+    - relationships:
+        to: ref('dim_date')
+        field: date_key
+- name: dim_airport
+  columns:
+  - name: airport_key
+    data_tests:
+    - unique
+    - not_null
+- name: dim_aircraft
+  columns:
+  - name: aircraft_key
+    data_tests:
+    - unique
+    - not_null
+- name: dim_operator
+  columns:
+  - name: operator_key
+    data_tests:
+    - unique
+    - not_null
+- name: dim_wildlife
+  columns:
+  - name: wildlife_key
+    data_tests:
+    - unique
+    - not_null
+- name: dim_phase
+  columns:
+  - name: phase_key
+    data_tests:
+    - unique
+    - not_null
+- name: dim_weather
+  columns:
+  - name: weather_key
+    data_tests:
+    - unique
+    - not_null
+- name: dim_date
+  columns:
+  - name: date_key
+    data_tests:
+    - unique
+    - not_null
+- name: reporting_strikes
+  columns:
+  - name: record_id
+    data_tests:
+    - unique
+    - not_null

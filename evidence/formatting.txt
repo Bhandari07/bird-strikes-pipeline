@@ -1,0 +1,4 @@
+reformatted <project>/scripts/verify_snowflake.py
+
+All done! ✨ 🍰 ✨
+1 file reformatted, 6 files left unchanged.

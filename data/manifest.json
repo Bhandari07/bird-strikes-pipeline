@@ -1,0 +1,36 @@
+{
+  "scope": "supplied_bird_strikes_assessment",
+  "provenance": "Candidate-created checksum manifest for supplied files. Not supplier certification.",
+  "batches": {
+    "Base": {
+      "sha256": "cdf0eea303ffc3d9f352052d2b3614c213da502486a52604e7ce4a90afff39a5",
+      "valid_rows": 13206,
+      "blank_rows": 0,
+      "authoritative_snapshot": false
+    },
+    "Day 1": {
+      "sha256": "0d93c3f8a6599cd236f5da384781af3cd5ac9fd3477481dc483bc77db97b45f5",
+      "valid_rows": 4608,
+      "blank_rows": 7747,
+      "authoritative_snapshot": false
+    },
+    "Day 2": {
+      "sha256": "239871df66753138635b9156c920c0c5f3ce1e4b77909e98fa4e0672d9dc9f91",
+      "valid_rows": 3299,
+      "blank_rows": 2805,
+      "authoritative_snapshot": false
+    },
+    "Day 3": {
+      "sha256": "011d53125fac26bf719fc7ceb1fbb66b80141ff7940a7454d9106cc1e9b9f6e4",
+      "valid_rows": 1817,
+      "blank_rows": 1833,
+      "authoritative_snapshot": false
+    },
+    "Final": {
+      "sha256": "d82fc7ef5f0587d5524a8a303b5b514e89caa2e66f58f4b6658c82d228404ecc",
+      "valid_rows": 25518,
+      "blank_rows": 0,
+      "authoritative_snapshot": true
+    }
+  }
+}

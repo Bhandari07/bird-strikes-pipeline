@@ -1,0 +1,12 @@
+version: 2
+sources:
+  - name: ingestion
+    schema: RAW
+    tables:
+      - name: strike_current
+        description: Ordered and reconciled incident state owned by the Python loader.
+        columns:
+          - name: record_id
+            data_tests: [unique, not_null]
+      - name: dq_current
+        description: Current field-level quality findings, retaining source values.

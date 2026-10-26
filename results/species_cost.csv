@@ -1,0 +1,349 @@
+species,incidents,total_reported_cost,damaged_incidents
+Canada goose,370,20664597,209
+White-tailed deer,85,17155662,79
+Unknown bird - medium,4316,9953298,509
+Bald eagle,52,7723932,25
+Unknown bird - large,796,7342719,285
+Turkey vulture,178,6705265,95
+White-tailed kite,7,5704387,2
+Greater white-fronted goose,19,4348994,12
+Unknown bird - small,10494,4083892,278
+Snow goose,34,3744528,25
+European starling,883,3717073,49
+Mallard,140,3717010,48
+American white pelican,8,3665965,6
+Ferruginous hawk,2,3463526,2
+Killdeer,468,2970170,15
+Red-tailed hawk,411,2852564,108
+Ring-billed gull,241,2757999,42
+Mourning dove,896,2708015,51
+Great blue heron,81,2605035,31
+Great egret,22,2273115,7
+Western grebe,4,2111275,3
+Coyote,59,1757310,4
+Western gull,21,1697028,3
+Northern pintail,59,1652003,31
+Northern shoveler,17,1631391,10
+Black vulture,37,1535510,25
+Gadwall,15,1374636,6
+Rock pigeon,594,1345106,77
+American kestrel,444,1095756,9
+Yellow-legged gull,1,872290,1
+Double-crested cormorant,26,823838,17
+Muscovy duck,1,562030,1
+Trumpeter swan,1,541145,1
+Grebes,1,496000,1
+Sharp-shinned hawk,1,360000,1
+Herring gull,194,353706,40
+Domestic dog,1,351405,1
+Snowy owl,15,319985,4
+Pacific golden-plover,172,309495,3
+Glaucous gull,10,300000,1
+Brown pelican,17,288102,5
+Wild turkey,26,269275,10
+Black-crowned night-heron,3,263755,1
+California gull,38,247976,7
+Dunlin,5,240127,1
+Gulls,42,232500,8
+Barn owl,130,163983,12
+Peregrine falcon,39,139673,11
+American robin,128,136117,11
+Western meadowlark,106,134089,4
+Eastern meadowlark,108,133472,3
+Black-bellied plover,26,132433,2
+Osprey,62,130756,25
+Tundra swan,4,128283,4
+Lesser scaup,9,123476,5
+Unknown bird or bat,60,104776,2
+American coot,24,100595,6
+American crow,69,94141,4
+Sandhill crane,39,92342,17
+Ruddy duck,8,90022,5
+Common raven,9,82045,5
+Laysan albatross,27,74072,7
+Ring-necked duck,3,73669,2
+Glaucous-winged gull,22,60246,5
+Whooping crane,1,55893,1
+Red fox,13,54815,1
+Mule deer,3,53092,3
+Redhead,2,51336,2
+Whimbrel,4,50000,2
+Great horned owl,16,48864,8
+Ring-necked pheasant,13,42690,5
+Rough-legged hawk,11,41068,2
+Sandpipers,7,41068,1
+Pied-billed grebe,3,39983,1
+Greater sage-grouse,2,35141,1
+Black-tailed jackrabbit,10,29325,2
+Green-winged teal,11,22304,5
+Great black-backed gull,14,21766,3
+Wood stork,4,21083,2
+Geese,1,21000,1
+Sora,1,18500,1
+Cliff swallow,183,18339,1
+Red-naped sapsucker,1,17570,0
+Mew gull,14,16360,4
+Cattle egret,80,14295,15
+Ducks,7,14000,5
+Western sandpiper,26,13987,1
+Varied thrush,7,12274,2
+Snow bunting,61,11254,1
+Dark-eyed junco,10,10503,1
+Greater yellowlegs,1,8433,1
+American pipit,10,7879,0
+Common loon,7,7606,4
+Red-tailed tropicbird,1,7289,1
+Laughing gull,49,5762,6
+Brown-headed cowbird,30,5729,1
+Horned lark,337,5474,4
+Broad-winged hawk,4,5134,1
+Wood duck,4,5071,2
+Scissor-tailed flycatcher,20,4267,0
+Anhinga,8,3889,3
+Ptarmigans,1,3608,1
+American woodcock,9,3080,0
+Hawks,22,2669,7
+American wigeon,11,2297,4
+Common goldeneye,3,2282,2
+Red-throated loon,2,2165,1
+Barn swallow,578,2029,4
+Red-winged blackbird,31,1976,2
+American black duck,5,1711,1
+Long-tailed duck,2,1160,1
+Sparrows,72,1130,0
+Northern bobwhite,2,1069,1
+Zebra dove,42,1027,1
+Blue-winged teal,3,1000,2
+Chimney swift,48,962,1
+Swainson's thrush,12,727,0
+Wilson's snipe,10,600,1
+Burrowing owl,18,513,0
+Gray catbird,7,513,0
+Merlin,7,513,0
+Swainson's hawk,21,513,5
+Blackpoll warbler,9,466,0
+Short-eared owl,52,378,3
+Pectoral sandpiper,3,333,1
+Pigeons,7,329,2
+Armadillo,2,316,0
+Blackbirds,62,308,1
+House sparrow,29,257,2
+Nelson's sharp-tailed sparrow,1,205,0
+Piping plover,1,205,1
+Franklin's gull,22,200,0
+Barred owl,4,154,0
+Tree swallow,128,59,0
+Yellow-rumped warbler,11,48,0
+Acadian flycatcher,1,0,0
+American alligator,2,0,0
+American avocet,1,0,1
+American bittern,1,0,0
+American golden-plover,19,0,1
+American goldfinch,4,0,0
+American redstart,1,0,0
+American tree sparrow,3,0,0
+Anna's hummingbird,1,0,0
+Baird's sandpiper,2,0,0
+Baltimore oriole,2,0,0
+Bank swallow,66,0,1
+Belted kingfisher,1,0,0
+Big brown bat,1,0,0
+Black francolin,2,0,0
+Black-bellied whistling-duck,2,0,1
+Black-billed magpie,3,0,0
+Black-capped chickadee,8,0,0
+Black-footed albatross,3,0,1
+Black-headed munia,16,0,0
+Black-necked stilt,1,0,0
+Black-throated blue warbler,2,0,0
+Black-throated green warbler,1,0,0
+Blackburnian warbler,1,0,0
+Blue jay,3,0,0
+Boat-tailed grackle,5,0,2
+Bobolink,1,0,0
+Bohemian waxwing,1,0,0
+Bonaparte's gull,5,0,1
+Bonin petrel,5,0,0
+Brant,5,0,3
+Brazilian free-tailed bat,12,0,0
+Brewer's blackbird,2,0,1
+Brown noddy,7,0,0
+Brown thrasher,1,0,0
+Buff-breasted sandpiper,3,0,0
+Bufflehead,2,0,0
+Bushtit,1,0,0
+California towhee,1,0,0
+Canada warbler,1,0,0
+Canvasback,6,0,3
+Cape May warbler,1,0,0
+Carolina chickadee,1,0,0
+Caspian tern,3,0,0
+Cassin's vireo,1,0,0
+Cave swallow,3,0,0
+Cedar waxwing,16,0,0
+Chestnut-collared longspur,1,0,0
+Chipping sparrow,5,0,0
+Chuck-will's-widow,4,0,0
+Chukar,2,0,0
+Cinnamon teal,1,0,0
+Common grackle,24,0,2
+Common ground-dove,1,0,0
+Common merganser,1,0,1
+Common myna,20,0,0
+Common nighthawk,36,0,0
+Common poorwill,1,0,0
+Common tern,2,0,0
+Common waxbill,1,0,0
+Common yellowthroat,4,0,0
+Cooper's hawk,10,0,0
+Crested caracara,1,0,1
+Domestic cat,2,0,0
+Doves,14,0,1
+Eastern kingbird,4,0,0
+Eastern phoebe,3,0,0
+Eastern towhee,1,0,0
+Egrets,6,0,0
+European golden-plover,4,0,0
+Fairy tern,1,0,0
+Field sparrow,5,0,0
+Finches,23,0,0
+Fox sparrow,5,0,0
+Golden eagle,2,0,0
+Golden-crowned kinglet,1,0,0
+Golden-crowned sparrow,1,0,0
+Grackles,4,0,1
+Grasshopper sparrow,1,0,0
+Gray flycatcher,2,0,0
+Gray francolin,2,0,0
+Gray partridge,2,0,1
+Gray-cheeked thrush,2,0,0
+Gray-headed chickadee,1,0,0
+Great cormorant,1,0,0
+Great frigatebird,2,0,0
+Great-tailed grackle,5,0,0
+Greater scaup,3,0,1
+Green heron,2,0,0
+Gunnison's prairie dog,2,0,0
+Hairy woodpecker,1,0,0
+"Hawks, eagles, vultures",1,0,1
+Hermit thrush,10,0,0
+Horned grebe,1,0,0
+House finch,11,0,0
+House wren,1,0,0
+Indigo bunting,1,0,0
+Japanese white-eye,1,0,0
+Java sparrow,1,0,0
+Lapland longspur,7,0,0
+Lark bunting,6,0,0
+Lark sparrow,1,0,0
+Least bittern,1,0,0
+Least sandpiper,16,0,0
+Least tern,4,0,0
+Lesser goldfinch,1,0,0
+Lincoln's sparrow,2,0,0
+Little brown bat,1,0,0
+Loggerhead shrike,1,0,0
+Long-billed dowitcher,2,0,0
+Long-tailed jaeger,1,0,0
+McKay's bunting,1,0,0
+Meadowlarks,72,0,1
+Mottled duck,7,0,3
+Mountain bluebird,2,0,0
+Mountain chickadee,1,0,0
+Mute swan,3,0,2
+Nashville warbler,3,0,0
+New World Vultures,3,0,2
+Northern cardinal,1,0,0
+Northern flicker,7,0,0
+Northern harrier,12,0,1
+Northern hawk owl,1,0,0
+Northern mockingbird,8,0,0
+Northern parula,1,0,0
+Northern rough-winged swallow,5,0,0
+Northern saw-whet owl,1,0,0
+Northern waterthrush,1,0,0
+Northwestern crow,1,0,0
+Nutmeg mannikin,23,0,0
+Orange-crowned warbler,2,0,0
+Orchard oriole,3,0,0
+Ovenbird,4,0,0
+Owls,5,0,0
+Pacific-slope flycatcher,1,0,0
+Palm warbler,1,0,0
+Parrots,3,0,0
+Perching birds (y),22,0,1
+"Pigeons, doves",1,0,0
+Pine grosbeak,1,0,0
+Pine siskin,2,0,0
+Pine warbler,1,0,0
+Plovers,1,0,0
+Prairie dog,1,0,0
+Prairie falcon,3,0,0
+Purple finch,1,0,0
+Purple martin,37,0,1
+Raccoon,5,0,2
+Red avadavat,2,0,0
+Red knot,2,0,0
+Red-breasted merganser,2,0,1
+Red-crested cardinal,2,0,0
+Red-eyed vireo,2,0,0
+Red-legged kittiwake,1,0,0
+Red-shouldered hawk,4,0,0
+Red-vented bulbul,2,0,0
+Rock sandpiper,1,0,0
+Rose-breasted grosbeak,1,0,0
+Ruby-crowned kinglet,4,0,0
+Ruby-throated hummingbird,1,0,0
+Ruddy turnstone,1,0,0
+Sage sparrow,2,0,0
+Sanderling,5,0,1
+Savannah sparrow,40,0,0
+Scarlet tanager,1,0,0
+Semipalmated plover,9,0,0
+Semipalmated sandpiper,17,0,0
+Short-billed dowitcher,2,0,1
+Silver-haired bat,1,0,0
+Sky lark,11,0,0
+Snowy egret,5,0,0
+Snowy plover,1,0,0
+Song sparrow,2,0,0
+Sooty tern,1,0,0
+Spotted dove,49,0,0
+Spotted sandpiper,1,0,0
+Striped skunk,4,0,0
+Swallows,43,0,0
+Swamp sparrow,2,0,0
+Thayer's gull,1,0,0
+Tropical mockingbird,1,0,0
+Upland sandpiper,24,0,0
+Vaux's swift,6,0,0
+Veery,1,0,0
+Vesper sparrow,2,0,0
+Violet-green swallow,3,0,0
+Virginia opossum,14,0,1
+Western bluebird,1,0,0
+Western kingbird,17,0,0
+Western tanager,2,0,0
+White tern,3,0,0
+White-crowned sparrow,3,0,0
+White-eyed vireo,1,0,0
+White-faced ibis,2,0,2
+White-tailed jackrabbit,1,0,0
+White-throated munia,2,0,0
+White-throated sparrow,15,0,0
+White-throated swift,4,0,1
+White-winged dove,6,0,1
+Willet,1,0,0
+Wilson's phalarope,1,0,0
+Wilson's plover,1,0,0
+Wilson's warbler,3,0,0
+Wood warblers,1,0,0
+Woodchuck,6,0,0
+Yellow bittern,1,0,0
+Yellow warbler,3,0,1
+Yellow-bellied sapsucker,6,0,0
+Yellow-billed cuckoo,2,0,1
+Yellow-billed magpie,1,0,0
+Yellow-breasted chat,1,0,0
+Yellow-crowned night-heron,4,0,1
+Yellow-headed blackbird,1,0,0

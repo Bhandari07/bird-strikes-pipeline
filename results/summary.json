@@ -1,0 +1,6775 @@
+{
+  "airports": [
+    {
+      "airport": "DALLAS/FORT WORTH INTL ARPT",
+      "incidents": 803
+    },
+    {
+      "airport": "SACRAMENTO INTL",
+      "incidents": 674
+    },
+    {
+      "airport": "SALT LAKE CITY INTL",
+      "incidents": 478
+    },
+    {
+      "airport": "DENVER INTL AIRPORT",
+      "incidents": 474
+    },
+    {
+      "airport": "KANSAS CITY INTL",
+      "incidents": 452
+    },
+    {
+      "airport": "PHILADELPHIA INTL",
+      "incidents": 441
+    },
+    {
+      "airport": "ORLANDO INTL",
+      "incidents": 406
+    },
+    {
+      "airport": "BALTIMORE WASH INTL",
+      "incidents": 401
+    },
+    {
+      "airport": "LOUISVILLE INTL ARPT",
+      "incidents": 395
+    },
+    {
+      "airport": "JOHN F KENNEDY INTL",
+      "incidents": 389
+    },
+    {
+      "airport": "CHARLOTTE/DOUGLAS INTL ARPT",
+      "incidents": 365
+    },
+    {
+      "airport": "NASHVILLE INTL",
+      "incidents": 364
+    },
+    {
+      "airport": "LAMBERT-ST LOUIS INTL",
+      "incidents": 363
+    },
+    {
+      "airport": "CHICAGO O'HARE INTL ARPT",
+      "incidents": 332
+    },
+    {
+      "airport": "DETROIT METRO WAYNE COUNTY ARPT",
+      "incidents": 321
+    },
+    {
+      "airport": "PORTLAND INTL (OR)",
+      "incidents": 313
+    },
+    {
+      "airport": "NEWARK LIBERTY INTL ARPT",
+      "incidents": 304
+    },
+    {
+      "airport": "CINCINNATI/NORTHERN KENTUCKY INTL ARPT",
+      "incidents": 302
+    },
+    {
+      "airport": "ATLANTA INTL",
+      "incidents": 296
+    },
+    {
+      "airport": "CHICAGO MIDWAY INTL ARPT",
+      "incidents": 296
+    },
+    {
+      "airport": "HOUSTON-HOBBY",
+      "incidents": 294
+    },
+    {
+      "airport": "FORT LAUDERDALE/HOLLYWOOD INTL",
+      "incidents": 277
+    },
+    {
+      "airport": "WASHINGTON DULLES INTL ARPT",
+      "incidents": 270
+    },
+    {
+      "airport": "EPPLEY AIRFIELD",
+      "incidents": 269
+    },
+    {
+      "airport": "LAGUARDIA NY",
+      "incidents": 262
+    },
+    {
+      "airport": "DALLAS LOVE FIELD ARPT",
+      "incidents": 253
+    },
+    {
+      "airport": "METRO OAKLAND INTL",
+      "incidents": 252
+    },
+    {
+      "airport": "LOGAN INTL",
+      "incidents": 251
+    },
+    {
+      "airport": "MINNEAPOLIS-ST PAUL INTL",
+      "incidents": 248
+    },
+    {
+      "airport": "GREATER PITTSBURGH",
+      "incidents": 237
+    },
+    {
+      "airport": "AUSTIN-BERGSTROM INTL",
+      "incidents": 236
+    },
+    {
+      "airport": "SAN FRANCISCO INTL ARPT",
+      "incidents": 226
+    },
+    {
+      "airport": "NEW ORLEANS INTL",
+      "incidents": 219
+    },
+    {
+      "airport": "LOS ANGELES INTL",
+      "incidents": 217
+    },
+    {
+      "airport": "SOUTHWEST FLORIDA INTL ARPT",
+      "incidents": 215
+    },
+    {
+      "airport": "CLEVELAND-HOPKINS INTL ARPT",
+      "incidents": 214
+    },
+    {
+      "airport": "BIRMINGHAM-SHUTTLESWORTH INTL",
+      "incidents": 211
+    },
+    {
+      "airport": "MIAMI INTL",
+      "incidents": 201
+    },
+    {
+      "airport": "MINETA SAN JOSE INTL",
+      "incidents": 201
+    },
+    {
+      "airport": "GEORGE BUSH INTERCONTINENTAL",
+      "incidents": 198
+    },
+    {
+      "airport": "PHOENIX SKY HARBOR",
+      "incidents": 196
+    },
+    {
+      "airport": "LIHUE ARPT",
+      "incidents": 195
+    },
+    {
+      "airport": "SAN ANTONIO INTL",
+      "incidents": 193
+    },
+    {
+      "airport": "BUFFALO-NIAGARA INTL",
+      "incidents": 182
+    },
+    {
+      "airport": "HONOLULU INTL ARPT",
+      "incidents": 170
+    },
+    {
+      "airport": "PORT COLUMBUS INTL",
+      "incidents": 166
+    },
+    {
+      "airport": "RALEIGH-DURHAM INTL",
+      "incidents": 165
+    },
+    {
+      "airport": "RONALD REAGAN WASHINGTON NATL",
+      "incidents": 162
+    },
+    {
+      "airport": "INDIANAPOLIS INTL",
+      "incidents": 160
+    },
+    {
+      "airport": "JACKSONVILLE INTL",
+      "incidents": 155
+    },
+    {
+      "airport": "ONTARIO INTL ARPT",
+      "incidents": 145
+    },
+    {
+      "airport": "TAMPA INTL",
+      "incidents": 144
+    },
+    {
+      "airport": "DES MOINES INTL",
+      "incidents": 140
+    },
+    {
+      "airport": "MEMPHIS INTL",
+      "incidents": 138
+    },
+    {
+      "airport": "SEATTLE-TACOMA INTL",
+      "incidents": 137
+    },
+    {
+      "airport": "BRADLEY INTL",
+      "incidents": 135
+    },
+    {
+      "airport": "HARRISBURG INTL",
+      "incidents": 131
+    },
+    {
+      "airport": "WESTCHESTER COUNTY ARPT",
+      "incidents": 130
+    },
+    {
+      "airport": "Unknown",
+      "incidents": 129
+    },
+    {
+      "airport": "GENERAL MITCHELL INTL",
+      "incidents": 128
+    },
+    {
+      "airport": "TETERBORO AIRPORT",
+      "incidents": 126
+    },
+    {
+      "airport": "GERALD R FORD INTL",
+      "incidents": 115
+    },
+    {
+      "airport": "AIRBORNE AIRPARK",
+      "incidents": 112
+    },
+    {
+      "airport": "HILO INTL ARPT",
+      "incidents": 112
+    },
+    {
+      "airport": "THEODORE FRANCIS GREEN STATE",
+      "incidents": 111
+    },
+    {
+      "airport": "QUAD CITY ARPT",
+      "incidents": 109
+    },
+    {
+      "airport": "NORFOLK INTL",
+      "incidents": 103
+    },
+    {
+      "airport": "MCCARREN INTL",
+      "incidents": 102
+    },
+    {
+      "airport": "SAN DIEGO INTL",
+      "incidents": 99
+    },
+    {
+      "airport": "BOB HOPE ARPT",
+      "incidents": 97
+    },
+    {
+      "airport": "SAVANNAH INTL",
+      "incidents": 97
+    },
+    {
+      "airport": "ALBANY INTL",
+      "incidents": 96
+    },
+    {
+      "airport": "ORLANDO SANFORD INTL AIRPORT",
+      "incidents": 92
+    },
+    {
+      "airport": "MANCHESTER AIRPORT",
+      "incidents": 88
+    },
+    {
+      "airport": "LONG BEACH-DAUGH FLD",
+      "incidents": 86
+    },
+    {
+      "airport": "LONG ISLAND MAC ARTHUR",
+      "incidents": 86
+    },
+    {
+      "airport": "LOVELL FIELD ARPT",
+      "incidents": 85
+    },
+    {
+      "airport": "KAPALUA ARPT",
+      "incidents": 84
+    },
+    {
+      "airport": "COLORADO SPRINGS MUNICIPAL",
+      "incidents": 83
+    },
+    {
+      "airport": "ALBUQUERQUE INTL",
+      "incidents": 82
+    },
+    {
+      "airport": "WILL ROGERS WORLD ARPT",
+      "incidents": 82
+    },
+    {
+      "airport": "DANE COUNTY REGIONAL ARPT-TRUAX FLD",
+      "incidents": 79
+    },
+    {
+      "airport": "KAHULUI ARPT",
+      "incidents": 79
+    },
+    {
+      "airport": "BLUE GRASS ARPT",
+      "incidents": 72
+    },
+    {
+      "airport": "SANTA BARBARA MUNICIPAL",
+      "incidents": 71
+    },
+    {
+      "airport": "ATLANTIC CITY INTL",
+      "incidents": 70
+    },
+    {
+      "airport": "PENSACOLA REGIONAL",
+      "incidents": 68
+    },
+    {
+      "airport": "ADAMS FIELD ARPT",
+      "incidents": 67
+    },
+    {
+      "airport": "BURKE LAKEFRONT",
+      "incidents": 65
+    },
+    {
+      "airport": "LINCOLN MUNICIPAL",
+      "incidents": 65
+    },
+    {
+      "airport": "TULSA INTL",
+      "incidents": 64
+    },
+    {
+      "airport": "GROTON-NEW LONDON AR",
+      "incidents": 63
+    },
+    {
+      "airport": "LEHIGH VALLEY INTL",
+      "incidents": 63
+    },
+    {
+      "airport": "BATON ROUGE METRO",
+      "incidents": 62
+    },
+    {
+      "airport": "LUIS MUNOZ MARIN INTL -SAN JUAN",
+      "incidents": 62
+    },
+    {
+      "airport": "DAYTONA BEACH INTL",
+      "incidents": 60
+    },
+    {
+      "airport": "JAMES M COX DAYTON INTL",
+      "incidents": 60
+    },
+    {
+      "airport": "JOHN WAYNE AIRPORT",
+      "incidents": 60
+    },
+    {
+      "airport": "PALM BEACH INTL",
+      "incidents": 60
+    },
+    {
+      "airport": "EL PASO INTL ARPT",
+      "incidents": 58
+    },
+    {
+      "airport": "RENO TAHOE INTL",
+      "incidents": 57
+    },
+    {
+      "airport": "MORRISTOWN MUNICIPAL ARPT",
+      "incidents": 56
+    },
+    {
+      "airport": "ROANOKE REGIONAL",
+      "incidents": 55
+    },
+    {
+      "airport": "WICHITA MID-CONTINENT ARPT",
+      "incidents": 55
+    },
+    {
+      "airport": "RICHMOND INTL",
+      "incidents": 53
+    },
+    {
+      "airport": "SPRINGFIELD-BRANSON NATIONAL",
+      "incidents": 53
+    },
+    {
+      "airport": "NEWPORT NEWS/WILLIAMSBURG INTL",
+      "incidents": 52
+    },
+    {
+      "airport": "JACKSON EVERS INTL",
+      "incidents": 50
+    },
+    {
+      "airport": "TED STEVENS ANCHORAGE INTL",
+      "incidents": 50
+    },
+    {
+      "airport": "CHARLESTON AFB/INTL ARPT",
+      "incidents": 49
+    },
+    {
+      "airport": "GREATER ROCKFORD",
+      "incidents": 49
+    },
+    {
+      "airport": "VAN NUYS ARPT",
+      "incidents": 49
+    },
+    {
+      "airport": "HENDERSON FIELD",
+      "incidents": 48
+    },
+    {
+      "airport": "TUCSON INTL",
+      "incidents": 48
+    },
+    {
+      "airport": "FORT WAYNE INTL",
+      "incidents": 46
+    },
+    {
+      "airport": "GRANT COUNTY ARPT",
+      "incidents": 45
+    },
+    {
+      "airport": "MOLOKAI ARPT",
+      "incidents": 45
+    },
+    {
+      "airport": "THE EASTERN IOWA ARPT",
+      "incidents": 45
+    },
+    {
+      "airport": "COLUMBIA METRO",
+      "incidents": 44
+    },
+    {
+      "airport": "RICHARD LLOYD JONES JR ARPT",
+      "incidents": 43
+    },
+    {
+      "airport": "MBS INTL",
+      "incidents": 42
+    },
+    {
+      "airport": "MCGHEE TYSON ARPT",
+      "incidents": 41
+    },
+    {
+      "airport": "GREATER ROCHESTER INTL",
+      "incidents": 40
+    },
+    {
+      "airport": "GULFPORT BILOXI REGIONAL",
+      "incidents": 40
+    },
+    {
+      "airport": "MIDLAND INTL",
+      "incidents": 40
+    },
+    {
+      "airport": "BARKSDALE AIR FORCE BASE ARPT",
+      "incidents": 39
+    },
+    {
+      "airport": "BOISE AIR TERMINAL/GOWEN FIELD",
+      "incidents": 39
+    },
+    {
+      "airport": "GRAND FORKS INTL",
+      "incidents": 39
+    },
+    {
+      "airport": "LUBBOCK INTL",
+      "incidents": 39
+    },
+    {
+      "airport": "MYRTLE BEACH INTL",
+      "incidents": 39
+    },
+    {
+      "airport": "SPOKANE INTERNATIONAL",
+      "incidents": 39
+    },
+    {
+      "airport": "ST. PETERSBURG/CLEARWATER INTL",
+      "incidents": 38
+    },
+    {
+      "airport": "TOLEDO EXPRESS ARPT",
+      "incidents": 38
+    },
+    {
+      "airport": "CAPITAL CITY (MI)",
+      "incidents": 37
+    },
+    {
+      "airport": "SARASOTA-BRADENTON",
+      "incidents": 37
+    },
+    {
+      "airport": "UNIV OF ILLINOIS -WILLARD ARPT",
+      "incidents": 37
+    },
+    {
+      "airport": "BUSH FLD",
+      "incidents": 36
+    },
+    {
+      "airport": "SOUTH BEND REGIONAL",
+      "incidents": 36
+    },
+    {
+      "airport": "VALLEY INTL",
+      "incidents": 36
+    },
+    {
+      "airport": "FRESNO YOSEMITE INTL",
+      "incidents": 34
+    },
+    {
+      "airport": "BURLINGTON INTL",
+      "incidents": 33
+    },
+    {
+      "airport": "EVANSVILLE REGIONAL",
+      "incidents": 32
+    },
+    {
+      "airport": "FORT LAUDERDALE EXECUTIVE ARPT",
+      "incidents": 32
+    },
+    {
+      "airport": "ROCHESTER INTL",
+      "incidents": 32
+    },
+    {
+      "airport": "YEAGER ARPT",
+      "incidents": 32
+    },
+    {
+      "airport": "ADDISON",
+      "incidents": 31
+    },
+    {
+      "airport": "DEKALB-PEACHTREE ARPT",
+      "incidents": 31
+    },
+    {
+      "airport": "EXECUTIVE ARPT",
+      "incidents": 31
+    },
+    {
+      "airport": "KALAMAZOO/BATTLE CREEK INTL",
+      "incidents": 31
+    },
+    {
+      "airport": "WILMINGTON INTL",
+      "incidents": 31
+    },
+    {
+      "airport": "ABRAHAM LINCOLN CAPITAL ARPT",
+      "incidents": 30
+    },
+    {
+      "airport": "GREATER PEORIA REGIONAL ARPT",
+      "incidents": 30
+    },
+    {
+      "airport": "LAURENCE G HANSCOM",
+      "incidents": 29
+    },
+    {
+      "airport": "ASHEVILLE REGIONAL ARPT",
+      "incidents": 28
+    },
+    {
+      "airport": "HUNTSVILLE INTL",
+      "incidents": 28
+    },
+    {
+      "airport": "PIEDMONT TRIAD INTL",
+      "incidents": 28
+    },
+    {
+      "airport": "SHEPPARD AIR FORCE BASE",
+      "incidents": 28
+    },
+    {
+      "airport": "SITKA ROCKY GUTIERREZ ARPT",
+      "incidents": 28
+    },
+    {
+      "airport": "CORPUS CHRISTI INTL ARPT",
+      "incidents": 27
+    },
+    {
+      "airport": "PORTLAND INTL JETPORT (ME)",
+      "incidents": 27
+    },
+    {
+      "airport": "PANAMA CITY - BAY COUNTY INTL",
+      "incidents": 26
+    },
+    {
+      "airport": "STEWART INTL AIRPORT",
+      "incidents": 26
+    },
+    {
+      "airport": "AKRON-CANTON MUNICIPAL",
+      "incidents": 25
+    },
+    {
+      "airport": "ELLINGTON FIELD ARPT",
+      "incidents": 25
+    },
+    {
+      "airport": "NEW CASTLE COUNTY",
+      "incidents": 25
+    },
+    {
+      "airport": "PHOENIX DEER VALLEY ARPT",
+      "incidents": 24
+    },
+    {
+      "airport": "BISMARCK MUNICIPAL ARPT",
+      "incidents": 23
+    },
+    {
+      "airport": "BLOOMINGTON/NORMAL",
+      "incidents": 23
+    },
+    {
+      "airport": "ERNEST A LOVE FIELD",
+      "incidents": 23
+    },
+    {
+      "airport": "JOE FOSS FIELD ARPT",
+      "incidents": 23
+    },
+    {
+      "airport": "OUTAGAMIE COUNTY REGIONAL",
+      "incidents": 23
+    },
+    {
+      "airport": "BISHOP INTL FLINT",
+      "incidents": 22
+    },
+    {
+      "airport": "BOWMAN FIELD",
+      "incidents": 22
+    },
+    {
+      "airport": "CHARLES B WHEELER DOWNTOWN ARPT",
+      "incidents": 22
+    },
+    {
+      "airport": "CINCINNATI MUNI ARPT-LUNKEN FIELD",
+      "incidents": 22
+    },
+    {
+      "airport": "ST. PAUL DOWNTOWN ARPT",
+      "incidents": 22
+    },
+    {
+      "airport": "TOCUMEN INTL",
+      "incidents": 22
+    },
+    {
+      "airport": "BOEING FIELD K C INT",
+      "incidents": 21
+    },
+    {
+      "airport": "KEY WEST INTL ARPT",
+      "incidents": 21
+    },
+    {
+      "airport": "MC ALLEN MILLER INTL",
+      "incidents": 21
+    },
+    {
+      "airport": "MOBILE REGIONAL",
+      "incidents": 21
+    },
+    {
+      "airport": "PHOENIX-MESA GATEWAY",
+      "incidents": 21
+    },
+    {
+      "airport": "SACRAMENTO MATHER ARPT",
+      "incidents": 21
+    },
+    {
+      "airport": "AUSTIN STRAUBEL INTL",
+      "incidents": 20
+    },
+    {
+      "airport": "NW ARKANSAS REGIONAL",
+      "incidents": 20
+    },
+    {
+      "airport": "SYRACUSE HANCOCK INTL",
+      "incidents": 20
+    },
+    {
+      "airport": "WILKES-BARRE/SCRANTON INTL",
+      "incidents": 20
+    },
+    {
+      "airport": "AMARILLO INTL",
+      "incidents": 19
+    },
+    {
+      "airport": "COLUMBUS MUNICIPAL ARPT (IN)",
+      "incidents": 19
+    },
+    {
+      "airport": "DUPAGE AIRPORT",
+      "incidents": 19
+    },
+    {
+      "airport": "FAIRBANKS INTL ARPT",
+      "incidents": 19
+    },
+    {
+      "airport": "HENRY E ROHLSEN ARPT",
+      "incidents": 19
+    },
+    {
+      "airport": "MONTGOMERY REGIONAL ARPT",
+      "incidents": 19
+    },
+    {
+      "airport": "SANGSTER INTL",
+      "incidents": 19
+    },
+    {
+      "airport": "WILLOW RUN ARPT",
+      "incidents": 19
+    },
+    {
+      "airport": "COLUMBUS METRO",
+      "incidents": 18
+    },
+    {
+      "airport": "GREENVILLE-SPARTANBURG INTL",
+      "incidents": 18
+    },
+    {
+      "airport": "GREGG COUNTY ARPT",
+      "incidents": 18
+    },
+    {
+      "airport": "KLAMATH FALLS INTL",
+      "incidents": 18
+    },
+    {
+      "airport": "LAFAYETTE REGIONAL (LA)",
+      "incidents": 18
+    },
+    {
+      "airport": "PEASE INTL TRADEPORT",
+      "incidents": 18
+    },
+    {
+      "airport": "ST LOUIS DOWNTOWN",
+      "incidents": 18
+    },
+    {
+      "airport": "TRENTON MERCER ARPT",
+      "incidents": 18
+    },
+    {
+      "airport": "TRI-CITIES REGIONAL TN/VA ARPT",
+      "incidents": 18
+    },
+    {
+      "airport": "ABERDEEN REGIONAL AR",
+      "incidents": 17
+    },
+    {
+      "airport": "CANCUN INTL",
+      "incidents": 17
+    },
+    {
+      "airport": "JUAN SANTAMARIA INTL",
+      "incidents": 17
+    },
+    {
+      "airport": "SAIPAN INTL",
+      "incidents": 17
+    },
+    {
+      "airport": "SHREVEPORT REGIONAL",
+      "incidents": 17
+    },
+    {
+      "airport": "TALLAHASSEE REGIONAL",
+      "incidents": 17
+    },
+    {
+      "airport": "TRI-STATE MILTON FERGUSON",
+      "incidents": 17
+    },
+    {
+      "airport": "YAMPA VALLEY",
+      "incidents": 17
+    },
+    {
+      "airport": "CHARLES DE GAULLE",
+      "incidents": 16
+    },
+    {
+      "airport": "CHERRY CAPITAL ARPT",
+      "incidents": 16
+    },
+    {
+      "airport": "GREATER BINGHAMTON ARPT",
+      "incidents": 16
+    },
+    {
+      "airport": "MINISTRO PISTARINI",
+      "incidents": 16
+    },
+    {
+      "airport": "OAKLAND COUNTY INTL",
+      "incidents": 16
+    },
+    {
+      "airport": "REPUBLIC AIRPORT",
+      "incidents": 16
+    },
+    {
+      "airport": "SANTIAGO CIBAO INTL",
+      "incidents": 16
+    },
+    {
+      "airport": "SANTO DOMINGO/LAS AM",
+      "incidents": 16
+    },
+    {
+      "airport": "ERIE INTL",
+      "incidents": 15
+    },
+    {
+      "airport": "FORT SMITH MUNICIPAL ARPT",
+      "incidents": 15
+    },
+    {
+      "airport": "HECTOR INTERNATIONAL",
+      "incidents": 15
+    },
+    {
+      "airport": "LAKEFRONT AIRPORT",
+      "incidents": 15
+    },
+    {
+      "airport": "NAPA COUNTY ARPT",
+      "incidents": 15
+    },
+    {
+      "airport": "NORTH CENTRAL WEST VIRGINIA ARPT",
+      "incidents": 15
+    },
+    {
+      "airport": "OHIO STATE UNIVERSITY",
+      "incidents": 15
+    },
+    {
+      "airport": "SACRAMENTO EXECUTIVE ARPT",
+      "incidents": 15
+    },
+    {
+      "airport": "ST. LUCIE COUNTY INTL ARPT",
+      "incidents": 15
+    },
+    {
+      "airport": "BRACKETT FIELD ARPT",
+      "incidents": 14
+    },
+    {
+      "airport": "CHICAGO EXECUTIVE ARPT",
+      "incidents": 14
+    },
+    {
+      "airport": "MANAGUA INTL ARPT",
+      "incidents": 14
+    },
+    {
+      "airport": "OXNARD ARPT",
+      "incidents": 14
+    },
+    {
+      "airport": "SAN LUIS COUNTY REGIONAL ARPT",
+      "incidents": 14
+    },
+    {
+      "airport": "SANTA MARIA PUBLIC",
+      "incidents": 14
+    },
+    {
+      "airport": "EL SALVADOR INTL",
+      "incidents": 13
+    },
+    {
+      "airport": "MC CLELLAN AIRFIELD",
+      "incidents": 13
+    },
+    {
+      "airport": "PORTLAND-HILLSBORO ARPT",
+      "incidents": 13
+    },
+    {
+      "airport": "PUEBLO MEMORIAL ARPT",
+      "incidents": 13
+    },
+    {
+      "airport": "READING REGIONAL",
+      "incidents": 13
+    },
+    {
+      "airport": "TWEED-NEW HAVEN ARPT",
+      "incidents": 13
+    },
+    {
+      "airport": "ALLEGHENY COUNTY ARPT",
+      "incidents": 12
+    },
+    {
+      "airport": "CYRIL E KING ARPT",
+      "incidents": 12
+    },
+    {
+      "airport": "DUBUQUE REGIONAL ARPT",
+      "incidents": 12
+    },
+    {
+      "airport": "ELMIRA/CORNING MUNICIPAL",
+      "incidents": 12
+    },
+    {
+      "airport": "LEWISTON-NEZ PERCE CO ARPT",
+      "incidents": 12
+    },
+    {
+      "airport": "MANASSAS REGIONAL ARPT",
+      "incidents": 12
+    },
+    {
+      "airport": "MCNARY FLD ARPT",
+      "incidents": 12
+    },
+    {
+      "airport": "NORTHEAST PHILADELPHIA ARPT",
+      "incidents": 12
+    },
+    {
+      "airport": "ST AUGUSTINE",
+      "incidents": 12
+    },
+    {
+      "airport": "WORCESTER REGIONAL",
+      "incidents": 12
+    },
+    {
+      "airport": "ALBERT J ELLIS",
+      "incidents": 11
+    },
+    {
+      "airport": "IDAHO FALLS REGIONAL ARPT",
+      "incidents": 11
+    },
+    {
+      "airport": "KISSIMMEE GATEWAY ARPT",
+      "incidents": 11
+    },
+    {
+      "airport": "LANAI ARPT",
+      "incidents": 11
+    },
+    {
+      "airport": "TORONTO/LESTER B. PEARSON INTL",
+      "incidents": 11
+    },
+    {
+      "airport": "VANCOUVER INTL",
+      "incidents": 11
+    },
+    {
+      "airport": "BARNSTABLE MUNICIPAL",
+      "incidents": 10
+    },
+    {
+      "airport": "CENTENNIAL ARPT",
+      "incidents": 10
+    },
+    {
+      "airport": "ESSEX COUNTY AIRPORT",
+      "incidents": 10
+    },
+    {
+      "airport": "HAGERSTOWN REGIONAL",
+      "incidents": 10
+    },
+    {
+      "airport": "JUNEAU INTL ARPT",
+      "incidents": 10
+    },
+    {
+      "airport": "MELBOURNE INTL",
+      "incidents": 10
+    },
+    {
+      "airport": "MISSOULA INTL ARPT",
+      "incidents": 10
+    },
+    {
+      "airport": "MONTROSE REGIONAL ARPT",
+      "incidents": 10
+    },
+    {
+      "airport": "MORGANTOWN MUNICIPAL ARPT",
+      "incidents": 10
+    },
+    {
+      "airport": "PALM SPRINGS INTL",
+      "incidents": 10
+    },
+    {
+      "airport": "PUNTA CANA INTL",
+      "incidents": 10
+    },
+    {
+      "airport": "ROGUE VALLEY INTL",
+      "incidents": 10
+    },
+    {
+      "airport": "SPIRIT OF ST LOUIS",
+      "incidents": 10
+    },
+    {
+      "airport": "TRI-CITIES",
+      "incidents": 10
+    },
+    {
+      "airport": "UNALASKA ARPT",
+      "incidents": 10
+    },
+    {
+      "airport": "WATERLOO REGIONAL ARPT",
+      "incidents": 10
+    },
+    {
+      "airport": "ABILENE REGIONAL ARPT",
+      "incidents": 9
+    },
+    {
+      "airport": "CUYAHOGA COUNTY ARPT",
+      "incidents": 9
+    },
+    {
+      "airport": "DANBURY MUNICIPAL ARPT",
+      "incidents": 9
+    },
+    {
+      "airport": "EASTERWOOD FIELD AIRPORT",
+      "incidents": 9
+    },
+    {
+      "airport": "IGOR I SIKORSKY MEMORIAL",
+      "incidents": 9
+    },
+    {
+      "airport": "JACKSON HOLE",
+      "incidents": 9
+    },
+    {
+      "airport": "KALAELOA ARPT JOHN RODGERS FIELD",
+      "incidents": 9
+    },
+    {
+      "airport": "KENDALL-TAMIAMI EXECUTIVE ARPT",
+      "incidents": 9
+    },
+    {
+      "airport": "LORAIN COUNTY REGIONAL ARPT",
+      "incidents": 9
+    },
+    {
+      "airport": "LYNDEN PINDLING INTL ARPT",
+      "incidents": 9
+    },
+    {
+      "airport": "MAHLON SWEET FLD",
+      "incidents": 9
+    },
+    {
+      "airport": "MOBILE DOWNTOWN ARPT",
+      "incidents": 9
+    },
+    {
+      "airport": "PAGO PAGO INTL",
+      "incidents": 9
+    },
+    {
+      "airport": "QUONSET STATE ARPT",
+      "incidents": 9
+    },
+    {
+      "airport": "SNOHOMISH CO (PAINE FIELD)",
+      "incidents": 9
+    },
+    {
+      "airport": "WATERBURY-OXFORD ARPT",
+      "incidents": 9
+    },
+    {
+      "airport": "WAUKEGAN REGIONAL ARPT",
+      "incidents": 9
+    },
+    {
+      "airport": "WILLIAMSON COUNTY REGIONAL",
+      "incidents": 9
+    },
+    {
+      "airport": "YAKIMA AIR TERMINAL",
+      "incidents": 9
+    },
+    {
+      "airport": "BELLINGHAM INTL",
+      "incidents": 8
+    },
+    {
+      "airport": "CAMARILLO",
+      "incidents": 8
+    },
+    {
+      "airport": "CENTRAL NEBRASKA REGIONAL",
+      "incidents": 8
+    },
+    {
+      "airport": "CLARK INTL",
+      "incidents": 8
+    },
+    {
+      "airport": "DANIEL ODUBER QUIROS INTL",
+      "incidents": 8
+    },
+    {
+      "airport": "EGLIN AFB/NW FLORIDA REGIONAL ARPT",
+      "incidents": 8
+    },
+    {
+      "airport": "GAINESVILLE REG ARPT",
+      "incidents": 8
+    },
+    {
+      "airport": "MEACHAM FT WORTH",
+      "incidents": 8
+    },
+    {
+      "airport": "RAPID CITY REGIONAL",
+      "incidents": 8
+    },
+    {
+      "airport": "REDDING MUNICIPAL",
+      "incidents": 8
+    },
+    {
+      "airport": "SIOUX GATEWAY ARPT",
+      "incidents": 8
+    },
+    {
+      "airport": "TYLER POUNDS FIELD",
+      "incidents": 8
+    },
+    {
+      "airport": "VERO BEACH MUNICIPAL",
+      "incidents": 8
+    },
+    {
+      "airport": "WACO REGIONAL ARPT",
+      "incidents": 8
+    },
+    {
+      "airport": "ASPEN-PITKIN CO/SARD",
+      "incidents": 7
+    },
+    {
+      "airport": "BENITO JUAREZ INTL",
+      "incidents": 7
+    },
+    {
+      "airport": "BEVERLY MUNICIPAL ARPT",
+      "incidents": 7
+    },
+    {
+      "airport": "CHINO AIRPORT",
+      "incidents": 7
+    },
+    {
+      "airport": "COLUMBIA REGIONAL",
+      "incidents": 7
+    },
+    {
+      "airport": "DUTCHESS COUNTY ARPT",
+      "incidents": 7
+    },
+    {
+      "airport": "FOWLER ARPT",
+      "incidents": 7
+    },
+    {
+      "airport": "FULTON COUNTY ARPT - BROWN FIELD",
+      "incidents": 7
+    },
+    {
+      "airport": "GALLATIN FIELD ARPT",
+      "incidents": 7
+    },
+    {
+      "airport": "GREAT FALLS INTL",
+      "incidents": 7
+    },
+    {
+      "airport": "HAYS REGIONAL",
+      "incidents": 7
+    },
+    {
+      "airport": "JOPLIN REGIONAL",
+      "incidents": 7
+    },
+    {
+      "airport": "KODIAK AIRPORT",
+      "incidents": 7
+    },
+    {
+      "airport": "LAREDO INTL",
+      "incidents": 7
+    },
+    {
+      "airport": "LEBANON MUNICIPAL ARPT",
+      "incidents": 7
+    },
+    {
+      "airport": "MCCLELLAN-PALOMAR",
+      "incidents": 7
+    },
+    {
+      "airport": "NANTUCKET MEMORIAL",
+      "incidents": 7
+    },
+    {
+      "airport": "NAPLES MUNICIPAL",
+      "incidents": 7
+    },
+    {
+      "airport": "OWENSBORO-DAVIESS",
+      "incidents": 7
+    },
+    {
+      "airport": "PHOENIX GOODYEAR ARPT",
+      "incidents": 7
+    },
+    {
+      "airport": "PUERTO VALLARTA",
+      "incidents": 7
+    },
+    {
+      "airport": "PULLMAN-MOSCOW REGIONAL",
+      "incidents": 7
+    },
+    {
+      "airport": "TERRE HAUTE INTL ARPT-HULMAN FIELD",
+      "incidents": 7
+    },
+    {
+      "airport": "W K KELLOGG ARPT",
+      "incidents": 7
+    },
+    {
+      "airport": "AURORA MUNICIPAL ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "BETHEL ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "BRANSON ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "COLOGNE-BONN",
+      "incidents": 6
+    },
+    {
+      "airport": "EL MONTE ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "GARY CHICAGO INTL",
+      "incidents": 6
+    },
+    {
+      "airport": "GENERAL ESCOBEDO INTL",
+      "incidents": 6
+    },
+    {
+      "airport": "GUAYAQUIL/S BOLIVAR",
+      "incidents": 6
+    },
+    {
+      "airport": "HELENA REGIONAL",
+      "incidents": 6
+    },
+    {
+      "airport": "MADRID-BARAJAS",
+      "incidents": 6
+    },
+    {
+      "airport": "MARTIN STATE ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "MONROE COUNTY",
+      "incidents": 6
+    },
+    {
+      "airport": "MONTEREY PENINSULA",
+      "incidents": 6
+    },
+    {
+      "airport": "MONTGOMERY FIELD ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "MONTREAL/PIERRE-ELLIOTT-TRUDEAU INTL",
+      "incidents": 6
+    },
+    {
+      "airport": "MUSKEGON COUNTY ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "NEW BEDFORD REGIONAL ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "NORTH BEND MUNICIPAL",
+      "incidents": 6
+    },
+    {
+      "airport": "PANGBORN MEMORIAL",
+      "incidents": 6
+    },
+    {
+      "airport": "PUNTA GORDA ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "PURDUE UNIV ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "RENTON MUNICIPAL ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "RICKENBACKER INTL",
+      "incidents": 6
+    },
+    {
+      "airport": "ROCKY MOUNTAIN METROPOLITAN ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "SCOTTSDALE ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "SKYLARK FIELD",
+      "incidents": 6
+    },
+    {
+      "airport": "STOCKTON METRO",
+      "incidents": 6
+    },
+    {
+      "airport": "SUGAR LAND REGIONAL ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "TACOMA NARROWS ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "WHITEMAN AIRPORT",
+      "incidents": 6
+    },
+    {
+      "airport": "WILEY POST ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "WILLIAM B HEILIG FIELD",
+      "incidents": 6
+    },
+    {
+      "airport": "YAKUTAT ARPT",
+      "incidents": 6
+    },
+    {
+      "airport": "ANOKA COUNTY-BLAINE",
+      "incidents": 5
+    },
+    {
+      "airport": "BILLINGS LOGAN INTL",
+      "incidents": 5
+    },
+    {
+      "airport": "BUCHANAN FLD",
+      "incidents": 5
+    },
+    {
+      "airport": "CAPITAL CITY ARPT (PA)",
+      "incidents": 5
+    },
+    {
+      "airport": "CENTRAL WISCONSIN ARPT",
+      "incidents": 5
+    },
+    {
+      "airport": "CHARLOTTESVILLE-ALBEMARLE ARPT",
+      "incidents": 5
+    },
+    {
+      "airport": "COLLIN COUNTY RGNL ARPT AT MCKINNEY",
+      "incidents": 5
+    },
+    {
+      "airport": "DILLINGHAM AIRFIELD",
+      "incidents": 5
+    },
+    {
+      "airport": "DURANGO-LA PLATA CO",
+      "incidents": 5
+    },
+    {
+      "airport": "ELKO REGIONAL ARPT",
+      "incidents": 5
+    },
+    {
+      "airport": "FORT WORTH ALLIANCE",
+      "incidents": 5
+    },
+    {
+      "airport": "GATWICK - LONDON",
+      "incidents": 5
+    },
+    {
+      "airport": "L F WADE INTL ARPT",
+      "incidents": 5
+    },
+    {
+      "airport": "LA CROSSE MUNICIPAL AIRPORT",
+      "incidents": 5
+    },
+    {
+      "airport": "MANCHESTER ENGLAND",
+      "incidents": 5
+    },
+    {
+      "airport": "MASON CITY MUNICIPAL",
+      "incidents": 5
+    },
+    {
+      "airport": "MEADOWS FIELD ARPT",
+      "incidents": 5
+    },
+    {
+      "airport": "MERCEDITA ARPT",
+      "incidents": 5
+    },
+    {
+      "airport": "MONROE REGIONAL ARPT",
+      "incidents": 5
+    },
+    {
+      "airport": "ORMOND BEACH MUNICIPAL ARPT",
+      "incidents": 5
+    },
+    {
+      "airport": "PALMDALE REGIONAL ARPT",
+      "incidents": 5
+    },
+    {
+      "airport": "PUERTO PLATA INTL",
+      "incidents": 5
+    },
+    {
+      "airport": "SANTA FE MUNICIPAL",
+      "incidents": 5
+    },
+    {
+      "airport": "SKYHAVEN",
+      "incidents": 5
+    },
+    {
+      "airport": "SOUTHWEST GEORGIA REGIONAL ARPT",
+      "incidents": 5
+    },
+    {
+      "airport": "TOMPKINS COUNTY ARPT",
+      "incidents": 5
+    },
+    {
+      "airport": "USAF ACADEMY BULLSEYE AUX AIRSTRIP",
+      "incidents": 5
+    },
+    {
+      "airport": "AUGUSTA STATE",
+      "incidents": 4
+    },
+    {
+      "airport": "BAIYUN AIRPORT",
+      "incidents": 4
+    },
+    {
+      "airport": "BROOKINGS MUNICIPAL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "CALI/VALLE",
+      "incidents": 4
+    },
+    {
+      "airport": "CAPE GIRARDEAU MUNICIPAL",
+      "incidents": 4
+    },
+    {
+      "airport": "CECIL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "COLEMAN A YOUNG MUNICIPAL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "DAVID WAYNE HOOKS MEMORIAL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "DECATUR ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "DELAND MUNICIPAL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "DILLANT-HOPKINS ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "DULUTH INTL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "FLOYD BENNETT MEMORIAL",
+      "incidents": 4
+    },
+    {
+      "airport": "FLYING CLOUD ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "FORT COLLINS-LOVELAND",
+      "incidents": 4
+    },
+    {
+      "airport": "FORT WORTH SPINKS ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "FRANCIS S GABRESKI ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "FULLERTON MUNICIPAL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "GILLETTE CAMPBELL CO",
+      "incidents": 4
+    },
+    {
+      "airport": "GLENDALE MUNICIPAL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "GOLDEN TRIANGLE REGIONAL",
+      "incidents": 4
+    },
+    {
+      "airport": "GRAND JUNCTION REGIONAL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "GREAT BENT MUNICIPAL",
+      "incidents": 4
+    },
+    {
+      "airport": "GREENVILLE DOWNTOWN ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "GUAM INTL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "HATTIESBURG-LAUREL",
+      "incidents": 4
+    },
+    {
+      "airport": "HAWTHORNE MUNICIPAL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "HEATHROW - LONDON",
+      "incidents": 4
+    },
+    {
+      "airport": "INDIANAPOLIS REGIONAL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "INDIRA GANDHI INTL",
+      "incidents": 4
+    },
+    {
+      "airport": "JOHN F KENNEDY MEMORIAL",
+      "incidents": 4
+    },
+    {
+      "airport": "KENT STATE UNIVERSITY",
+      "incidents": 4
+    },
+    {
+      "airport": "KETCHIKAN INTL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "LAKELAND LINDER REGIONAL",
+      "incidents": 4
+    },
+    {
+      "airport": "LANCASTER ARPT (PA)",
+      "incidents": 4
+    },
+    {
+      "airport": "LAWTON-FORT SILL REGIONAL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "MARTHAS VINEYARD",
+      "incidents": 4
+    },
+    {
+      "airport": "MATHIS FIELD (TX)",
+      "incidents": 4
+    },
+    {
+      "airport": "MCCOOK MUNICIPAL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "MERRILL C MEIGS ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "MODESTO CITY-COUNTY",
+      "incidents": 4
+    },
+    {
+      "airport": "MONMOUTH EXECUTIVE ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "NATRONA COUNTY INTL",
+      "incidents": 4
+    },
+    {
+      "airport": "NEW TOKYO INTL",
+      "incidents": 4
+    },
+    {
+      "airport": "NORWOOD MEMORIAL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "PLYMOUTH MUNICIPAL ARPT (MA)",
+      "incidents": 4
+    },
+    {
+      "airport": "PORT-AU-PRINCE INTL",
+      "incidents": 4
+    },
+    {
+      "airport": "RALPH WIEN MEMORIAL ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "REID-HILLVIEW ARPT OF SANTA CLARA CNTY",
+      "incidents": 4
+    },
+    {
+      "airport": "ROCK COUNTY",
+      "incidents": 4
+    },
+    {
+      "airport": "SANTA FE DE BOGOTA",
+      "incidents": 4
+    },
+    {
+      "airport": "SANTIAGO INTL",
+      "incidents": 4
+    },
+    {
+      "airport": "UNIVERSITY PARK ARPT",
+      "incidents": 4
+    },
+    {
+      "airport": "VIRU VIRU INTL",
+      "incidents": 4
+    },
+    {
+      "airport": "WILLIAMSPORT",
+      "incidents": 4
+    },
+    {
+      "airport": "WILLMAR MUNICIPAL",
+      "incidents": 4
+    },
+    {
+      "airport": "YELLOWSTONE REGIONAL",
+      "incidents": 4
+    },
+    {
+      "airport": "ALEXANDRIA INTL",
+      "incidents": 3
+    },
+    {
+      "airport": "ALLENTOWN QUEEN CITY MUNICIPAL",
+      "incidents": 3
+    },
+    {
+      "airport": "BANGOR INTL",
+      "incidents": 3
+    },
+    {
+      "airport": "BARKLEY REGIONAL ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "BELIZE INTERNATIONAL ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "BOMBAY/MUMBAI",
+      "incidents": 3
+    },
+    {
+      "airport": "BOWERMAN ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "BUTLER COUNTY REGIONAL",
+      "incidents": 3
+    },
+    {
+      "airport": "CALGARY INTL",
+      "incidents": 3
+    },
+    {
+      "airport": "CHESTERFIELD COUNTY ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "CHEYENNE REGIONAL ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "COBB COUNTY ARPT-MC COLLUM FIELD",
+      "incidents": 3
+    },
+    {
+      "airport": "COZUMEL MEXICO",
+      "incidents": 3
+    },
+    {
+      "airport": "CROOKSTON MUNI ARPT-KIRKWOOD FIELD",
+      "incidents": 3
+    },
+    {
+      "airport": "DENTON MUNICIPAL ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "DICKINSON-THEODORE ROOSEVELT RGNL",
+      "incidents": 3
+    },
+    {
+      "airport": "EAGLE COUNTY REGIONAL",
+      "incidents": 3
+    },
+    {
+      "airport": "EAST HAMPTON ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "ELKHART MUNICIPAL ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "EUGENIO MARIA DE HOSTOS ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "FALCON FIELD ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "FINDLAY ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "FIUMICINO ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "FLAGSTAFF PULLIAM",
+      "incidents": 3
+    },
+    {
+      "airport": "FORBES FIELD AIRPORT",
+      "incidents": 3
+    },
+    {
+      "airport": "FRANKFURT MAIN",
+      "incidents": 3
+    },
+    {
+      "airport": "FRIEDMAN MEMORIAL",
+      "incidents": 3
+    },
+    {
+      "airport": "GARDEN CITY REGIONAL",
+      "incidents": 3
+    },
+    {
+      "airport": "GNOSS FIELD ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "GREENBRIER VALLEY ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "GUADALAJARA, MEXICO",
+      "incidents": 3
+    },
+    {
+      "airport": "GUANAJUATO DEL BAJIO INTL",
+      "incidents": 3
+    },
+    {
+      "airport": "GUARULHOS INTL",
+      "incidents": 3
+    },
+    {
+      "airport": "HAYWARD EXECUTIVE ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "HEMET-RYAN ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "HESLER-NOBLE FIELD ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "HONG KONG INTL",
+      "incidents": 3
+    },
+    {
+      "airport": "HURON REGIONAL ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "JAMESTOWN REGIONAL",
+      "incidents": 3
+    },
+    {
+      "airport": "JEFFERSON CITY MEMORIAL ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "JOHNSON COUNTY EXECUTIVE ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "JOHNSTOWN-CAMBRIA",
+      "incidents": 3
+    },
+    {
+      "airport": "JOSLIN FIELD - MAGIC VALLEY REGIONAL",
+      "incidents": 3
+    },
+    {
+      "airport": "KONA INTL ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "LA AURORA",
+      "incidents": 3
+    },
+    {
+      "airport": "LA CHINITA INTL",
+      "incidents": 3
+    },
+    {
+      "airport": "LAKE HOOD (SPB)",
+      "incidents": 3
+    },
+    {
+      "airport": "LAKE IN THE HILLS",
+      "incidents": 3
+    },
+    {
+      "airport": "LARAMIE REGIONAL",
+      "incidents": 3
+    },
+    {
+      "airport": "LEESBURG EXECUTIVE ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "LOS CABOS INTL",
+      "incidents": 3
+    },
+    {
+      "airport": "MANHATTAN REGIONAL",
+      "incidents": 3
+    },
+    {
+      "airport": "MCCONNELL AIR FORCE BASE",
+      "incidents": 3
+    },
+    {
+      "airport": "MEMORIAL FIELD",
+      "incidents": 3
+    },
+    {
+      "airport": "MIDDLE GEORGIA REGIONAL",
+      "incidents": 3
+    },
+    {
+      "airport": "MILANO MALPENSA",
+      "incidents": 3
+    },
+    {
+      "airport": "NORTHWEST FLORIDA BEACHES INTL",
+      "incidents": 3
+    },
+    {
+      "airport": "OAKLAND/TROY ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "OGDEN-HINCKLEY ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "OHIO UNIVERSITY ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "OPA-LOCKA EXECUTIVE ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "OWEN ROBERTS INTL",
+      "incidents": 3
+    },
+    {
+      "airport": "PALM BEACH COUNTY PARK ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "PALO ALTO ARPT OF SANTA CLARA COUNTY",
+      "incidents": 3
+    },
+    {
+      "airport": "PIERRE REGIONAL ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "PONCA CITY MUNICIPAL ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "PROVIDENCIALES INTL",
+      "incidents": 3
+    },
+    {
+      "airport": "PU DONG INTL ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "ROSWELL INTL AIR CENTER",
+      "incidents": 3
+    },
+    {
+      "airport": "SAN CARLOS ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "SAN PEDRO SULA LA MESA",
+      "incidents": 3
+    },
+    {
+      "airport": "SANTA MONICA MUNICIPAL",
+      "incidents": 3
+    },
+    {
+      "airport": "SAWYER INTL",
+      "incidents": 3
+    },
+    {
+      "airport": "SCHOLES INTL ARPT AT GALVESTON",
+      "incidents": 3
+    },
+    {
+      "airport": "SCOTT AFB/MIDAMERICA",
+      "incidents": 3
+    },
+    {
+      "airport": "SONOMA COUNTY ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "SOUTHWEST WASHINGTON REGIONAL ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "ST CLAIR COUNTY INTL ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "ST. CLOUD REGIONAL",
+      "incidents": 3
+    },
+    {
+      "airport": "STILLWATER REGIONAL ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "TEXARKANA-WEBB FIELD",
+      "incidents": 3
+    },
+    {
+      "airport": "TUPELO MUNICIPAL",
+      "incidents": 3
+    },
+    {
+      "airport": "VALDOSTA REGIONAL",
+      "incidents": 3
+    },
+    {
+      "airport": "VENANGO REGIONAL",
+      "incidents": 3
+    },
+    {
+      "airport": "VISALIA MUNICIPAL ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "WALLA WALLA REGIONAL",
+      "incidents": 3
+    },
+    {
+      "airport": "WESTERLY STATE ARPT",
+      "incidents": 3
+    },
+    {
+      "airport": "ALBERT LEA MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "ALLIANCE MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "AMSTERDAM SCHIPHOL",
+      "incidents": 2
+    },
+    {
+      "airport": "ANKENY REGIONAL",
+      "incidents": 2
+    },
+    {
+      "airport": "ANN ARBOR MUNICIPAL",
+      "incidents": 2
+    },
+    {
+      "airport": "ANNISTON METROPOLITAN ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "AQUASCALIENTES",
+      "incidents": 2
+    },
+    {
+      "airport": "ARCATA AIRPORT",
+      "incidents": 2
+    },
+    {
+      "airport": "ARDMORE MUNICIPAL",
+      "incidents": 2
+    },
+    {
+      "airport": "ARNOLD PALMER REGIONAL",
+      "incidents": 2
+    },
+    {
+      "airport": "AUBURN-LEWISTON MUNICIPAL",
+      "incidents": 2
+    },
+    {
+      "airport": "BARCELONA ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "BARNES MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "BERMUDA DUNES ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "BESSEMER ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "BOIRE FIELD",
+      "incidents": 2
+    },
+    {
+      "airport": "BOLIVAR MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "BRAINERD-CROW WING",
+      "incidents": 2
+    },
+    {
+      "airport": "CANYONLANDS FIELD",
+      "incidents": 2
+    },
+    {
+      "airport": "CAPE COD COAST GUARD AIR STATION",
+      "incidents": 2
+    },
+    {
+      "airport": "CASTLE ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "CHANDLER MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "CHEFORNAK ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "CHIPPEWA COUNTY INTL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "CLARK COUNTY REGIONAL ARPT (IN)",
+      "incidents": 2
+    },
+    {
+      "airport": "CLAYTON COUNTY ARPT- TARA FIELD",
+      "incidents": 2
+    },
+    {
+      "airport": "COLONEL JAMES JABARA ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "CORPUS CHRISTI NAS/TRUAX FIELD",
+      "incidents": 2
+    },
+    {
+      "airport": "CORTEZ MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "CRAIG MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "CRYSTAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "DANVILLE REGIONAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "DARE COUNTY REGIONAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "DEADHORSE ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "DELAWARE COUNTY REGIONAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "DELTA COUNTY ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "DESTIN-FORT WALTON BEACH ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "DUBOIS REGIONAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "EASTON/NEWMAN FIELD ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "ELEFTHERIOS VENIZELOS INTL",
+      "incidents": 2
+    },
+    {
+      "airport": "FAIRMONT MUNI-FRANKMAN FLD",
+      "incidents": 2
+    },
+    {
+      "airport": "FALLS INTL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "FAYETTVILLE MUNICIPAL",
+      "incidents": 2
+    },
+    {
+      "airport": "FERIHEGY ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "FLAGLER COUNTY ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "FLORENCE REGIONAL",
+      "incidents": 2
+    },
+    {
+      "airport": "FOUR CORNERS REGIONAL",
+      "incidents": 2
+    },
+    {
+      "airport": "FREDERICK MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "FREEPORT INTL",
+      "incidents": 2
+    },
+    {
+      "airport": "FRONT RANGE ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "GALEAO INTL (RIO)",
+      "incidents": 2
+    },
+    {
+      "airport": "GANDER INTL",
+      "incidents": 2
+    },
+    {
+      "airport": "GENERAL ROBERTO FIERRO VILLALOBOS INTL",
+      "incidents": 2
+    },
+    {
+      "airport": "GLASGOW INTL/WOKAL FIELD",
+      "incidents": 2
+    },
+    {
+      "airport": "GOSHEN MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "GRAND CANYON NATIONAL",
+      "incidents": 2
+    },
+    {
+      "airport": "GRAND CANYON WEST",
+      "incidents": 2
+    },
+    {
+      "airport": "GRANTLEY ADAMS BARBA",
+      "incidents": 2
+    },
+    {
+      "airport": "GREATER KANKAKEE ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "GREELEY-WELD COUNTY ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "GREENWOOD LAKE ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "GREENWOOD MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "GRIFFISS INTL",
+      "incidents": 2
+    },
+    {
+      "airport": "GROSSE ILE MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "GUNNISON COUNTY",
+      "incidents": 2
+    },
+    {
+      "airport": "HAMILTON",
+      "incidents": 2
+    },
+    {
+      "airport": "HARTFORD-BRAINARD ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "HAWKINS FIELD ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "HENDERSON CITY-COUNTY ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "HEWANORRA ST LUCIA",
+      "incidents": 2
+    },
+    {
+      "airport": "HOMESTEAD AIR RESERVE BASE",
+      "incidents": 2
+    },
+    {
+      "airport": "HOUSTON-SOUTHWEST ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "HUNTINGBURG ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "IMPERIAL COUNTY ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "INCHEON INTL",
+      "incidents": 2
+    },
+    {
+      "airport": "INCIRLIK AIR BASE",
+      "incidents": 2
+    },
+    {
+      "airport": "INDIANAPOLIS METROPOLITAN ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "JACQUELINE COCHRAN REGIONAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "JIM HAMILTON L B OWENS ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "JIM HOGG COUNTY AROT",
+      "incidents": 2
+    },
+    {
+      "airport": "KEARNEY MUNICIPAL",
+      "incidents": 2
+    },
+    {
+      "airport": "KENAI MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "KINGMAN",
+      "incidents": 2
+    },
+    {
+      "airport": "KIRKSVILLE REGIONAL",
+      "incidents": 2
+    },
+    {
+      "airport": "KIT CARSON COUNTY",
+      "incidents": 2
+    },
+    {
+      "airport": "KLEBERG COUNTY ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "LA ROMANA INTL",
+      "incidents": 2
+    },
+    {
+      "airport": "LAUGHLIN BULLHEAD INTL",
+      "incidents": 2
+    },
+    {
+      "airport": "LAWRENCE MUNICIPAL ARPT (MA)",
+      "incidents": 2
+    },
+    {
+      "airport": "LEE'S SUMMIT MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "LEESBURG INTL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "LEIPZIG-HALLE",
+      "incidents": 2
+    },
+    {
+      "airport": "LENAWEE COUNTY ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "LIBERAL MUNICIPAL",
+      "incidents": 2
+    },
+    {
+      "airport": "LIEGE ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "LITCHFIELD MUNICIPAL",
+      "incidents": 2
+    },
+    {
+      "airport": "LIVERMORE MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "LYNCHBURG REGIONAL",
+      "incidents": 2
+    },
+    {
+      "airport": "MALCOLM MCKINNON ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "MALMO-STURUP ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "MANISTEE COUNTY-BLACKER ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "MANSFIELD LAHM MUNICIPAL",
+      "incidents": 2
+    },
+    {
+      "airport": "MC GUIRE AIR FORCE BASE",
+      "incidents": 2
+    },
+    {
+      "airport": "MEADOW LAKE ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "MERCED MUNICIPAL",
+      "incidents": 2
+    },
+    {
+      "airport": "MERLE K (MUDHOLE) SMITH ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "MERRILL FIELD ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "MIDDLETON MUNI MOREY FIELD",
+      "incidents": 2
+    },
+    {
+      "airport": "MT PLEASANT MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "MURTALA MUHAMMED",
+      "incidents": 2
+    },
+    {
+      "airport": "NEW CENTURY AIRCENTER ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "NEW SMYRNA BEACH MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "NEWARK-HEATH ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "NIAGARA FALLS INTL",
+      "incidents": 2
+    },
+    {
+      "airport": "NORFOLK REGIONAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "NORMAN MANLEY INTL",
+      "incidents": 2
+    },
+    {
+      "airport": "NORTH LAS VEGAS",
+      "incidents": 2
+    },
+    {
+      "airport": "NORTH PLATTE REGIONAL",
+      "incidents": 2
+    },
+    {
+      "airport": "OCEAN CITY MUNICIPAL  ARPT (MD)",
+      "incidents": 2
+    },
+    {
+      "airport": "OCEAN REEF CLUB",
+      "incidents": 2
+    },
+    {
+      "airport": "OCONEE COUNTY REGIONAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "ODESSA-SCHLEMEYER FIELD ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "OLYMPIA ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "ORANJESTAD/REINA BEA",
+      "incidents": 2
+    },
+    {
+      "airport": "PAGE FIELD ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "PAGE MUNICIPAL",
+      "incidents": 2
+    },
+    {
+      "airport": "PETER O KNIGHT ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "PETERSBURG JAMES A JOHNSON ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "PINE MOUNTAIN LAKE ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "PITT-GREENVILLE ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "PORTLAND-TROUTDALE ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "PROVINCETOWN MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "PROVO MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "RAFAEL HERNANDEZ ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "RALEIGH EXEC JETPORT AT SANFORD-LEE CNTY ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "RIVERSIDE MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "ROBERTSON FIELD",
+      "incidents": 2
+    },
+    {
+      "airport": "ROBT L BRADSHAW INTL",
+      "incidents": 2
+    },
+    {
+      "airport": "ROCK SPRINGS-SWEETWATER CO",
+      "incidents": 2
+    },
+    {
+      "airport": "ROGERS MUNICIPAL ARPT-CARTER FIELD",
+      "incidents": 2
+    },
+    {
+      "airport": "ROTA",
+      "incidents": 2
+    },
+    {
+      "airport": "RUTLAND STATE ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "SALINAS MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "SALISBURY-WICOMICO",
+      "incidents": 2
+    },
+    {
+      "airport": "SIDNEY MUNICIPAL AR[T",
+      "incidents": 2
+    },
+    {
+      "airport": "SIMON BOLIVAR INTL",
+      "incidents": 2
+    },
+    {
+      "airport": "SITKA (SPB)",
+      "incidents": 2
+    },
+    {
+      "airport": "SKAGIT REGIONAL",
+      "incidents": 2
+    },
+    {
+      "airport": "SMITH REYOLDS ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "SOUTH VALLEY REGIONAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "SOUTHEAST IOWA REGIONAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "SOUTHEAST TEXAS REGIONAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "SOUTHWEST MICHIGAN REGIONAL",
+      "incidents": 2
+    },
+    {
+      "airport": "SOUTHWEST MINNESOTA REGIONAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "SPACE COAST REGIONAL",
+      "incidents": 2
+    },
+    {
+      "airport": "ST GEORGE MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "ST LOUIS REGIONAL",
+      "incidents": 2
+    },
+    {
+      "airport": "STUTTGART MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "TAHITI FAAA",
+      "incidents": 2
+    },
+    {
+      "airport": "TOKYO INTL",
+      "incidents": 2
+    },
+    {
+      "airport": "TONCONTIN INTL",
+      "incidents": 2
+    },
+    {
+      "airport": "TSTC WACO",
+      "incidents": 2
+    },
+    {
+      "airport": "UNIV OF OKLAHOMA WESTHEIMER ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "VIENNA INTL",
+      "incidents": 2
+    },
+    {
+      "airport": "WALLOPS FLIGHT FACILITY",
+      "incidents": 2
+    },
+    {
+      "airport": "WARSAW MUNICIPAL (IN)",
+      "incidents": 2
+    },
+    {
+      "airport": "WAYNESVILLE-ST ROBERT REGIONAL FORNEY FIELD",
+      "incidents": 2
+    },
+    {
+      "airport": "WEST BEND MUNICIPAL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "WEST BRANCH COMMUNITY ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "WILEY POST-WILL ROGERS MEM",
+      "incidents": 2
+    },
+    {
+      "airport": "WINGS FIELD ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "WM FAIRCHILD INTL ARPT",
+      "incidents": 2
+    },
+    {
+      "airport": "ADAMS COUNTY- LEGION FIELD",
+      "incidents": 1
+    },
+    {
+      "airport": "ADDINGTON FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "ADIRONDAK REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "ALBERT WHITTED",
+      "incidents": 1
+    },
+    {
+      "airport": "ALPENA COUNTY REG",
+      "incidents": 1
+    },
+    {
+      "airport": "ALTOONA-BLAIR COUNTY",
+      "incidents": 1
+    },
+    {
+      "airport": "ANDERSON REGIONAL",
+      "incidents": 1
+    },
+    {
+      "airport": "ANDREWS AIR FORCE BASE",
+      "incidents": 1
+    },
+    {
+      "airport": "ANIAK AIRPORT",
+      "incidents": 1
+    },
+    {
+      "airport": "ANIMAS AIR PARK",
+      "incidents": 1
+    },
+    {
+      "airport": "ARLINGTON MUNICIPAL ARPT (TX)",
+      "incidents": 1
+    },
+    {
+      "airport": "ASHE COUNTY",
+      "incidents": 1
+    },
+    {
+      "airport": "ASHTABULA COUNTY",
+      "incidents": 1
+    },
+    {
+      "airport": "ATHENS/BEN EPPS ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "AUBURN-OPELIKA RG PITTS",
+      "incidents": 1
+    },
+    {
+      "airport": "BAHRAIN INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "BALDWIN COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "BARROW COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "BASEL-MULHOUSE-FREIBURG",
+      "incidents": 1
+    },
+    {
+      "airport": "BAUDETTE INTL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "BEAVER COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "BELLEVILLE MUNICIPAL",
+      "incidents": 1
+    },
+    {
+      "airport": "BEMIDJI REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "BERT MOONEY",
+      "incidents": 1
+    },
+    {
+      "airport": "BERZ-MACOMB ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "BETZ ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "BIG PINEY-MARBLETON",
+      "incidents": 1
+    },
+    {
+      "airport": "BLOCK ISLAND STATE",
+      "incidents": 1
+    },
+    {
+      "airport": "BOB SIKES ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "BOLINDER FIELD - TOOELE VALLEY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "BOLINGBROOKS CLOW INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "BOLTON FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "BOULDER CITY MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "BRANDYWINE ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "BRAZORIA COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "BRENNER FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "BRITTON MUNICIPAL ARPT SD",
+      "incidents": 1
+    },
+    {
+      "airport": "BROOKS COUNTY",
+      "incidents": 1
+    },
+    {
+      "airport": "BROWNSVL/SO PADRE IS",
+      "incidents": 1
+    },
+    {
+      "airport": "BRUNSWICK GOLDEN ISLES",
+      "incidents": 1
+    },
+    {
+      "airport": "BUCHOLZ AAF MARSHALL",
+      "incidents": 1
+    },
+    {
+      "airport": "BUFFALO AIRFIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CAPE MAY COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CAPITAL (BEIJING)",
+      "incidents": 1
+    },
+    {
+      "airport": "CAPT FEAR REGIONAL JETPORT",
+      "incidents": 1
+    },
+    {
+      "airport": "CARRABELLE-THOMPSON",
+      "incidents": 1
+    },
+    {
+      "airport": "CARROLL COUNTY-TOLSON ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CEDAR CITY REGIONAL",
+      "incidents": 1
+    },
+    {
+      "airport": "CEDAR MILLS",
+      "incidents": 1
+    },
+    {
+      "airport": "CHADRON MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CHARLOTTE-MONROE  EXECUTIVE ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CHAUTAUQUA COUNTY/JAMESTOWN ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CHESTER ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CHESTER COUNTY G O CARLSON ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CHEVRON USA INC SEAPLANE BASE",
+      "incidents": 1
+    },
+    {
+      "airport": "CHICO MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CHILLICOTHE MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CINCINNATI-BLUE ASH ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CIUDAD DEL ESTE GARCIA",
+      "incidents": 1
+    },
+    {
+      "airport": "CLAREMONT MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CLEARVIEW AIRPARK",
+      "incidents": 1
+    },
+    {
+      "airport": "CLEVELAND MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CLINTON COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "COLD BAY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "COLES COUNTY MEMORIAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "COLUMBIA GORGE REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "COLUMBUS MUNICIPAL ARPT (NE)",
+      "incidents": 1
+    },
+    {
+      "airport": "COMPTON/WOODLEY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CONCORD REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CORDOVA MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "COTE D AZUR",
+      "incidents": 1
+    },
+    {
+      "airport": "CRAWFORDSVILLE MUNI ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CREVE COEUR ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CUBA MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CULPEPER REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "CUSTER ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "DAKAY-YOFF-LEOPOLD SEDAR SENGHOR",
+      "incidents": 1
+    },
+    {
+      "airport": "DALLAS EXECUTIVE ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "DANIEL FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "DAVID'S ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "DAVIS MONTHAN AIR FORCE BASE",
+      "incidents": 1
+    },
+    {
+      "airport": "DE KALB TAYLOR MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "DEER PARK ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "DELAWARE AIRPARK",
+      "incidents": 1
+    },
+    {
+      "airport": "DELAWARE MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "DELPHI MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "DEVILS LAKE REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "DILLINGHAM ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "DODGE CITY REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "DOHA INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "DONALDSON CENTER ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "DOUBLE EAGLE II ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "DOVER AIR FORCE BASE",
+      "incidents": 1
+    },
+    {
+      "airport": "DUBLIN INTL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "DYERSBURG REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "EAGLE CREEK AIRPARK",
+      "incidents": 1
+    },
+    {
+      "airport": "EASTERN OREGON REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "EASTERN WEST VIRGINIA REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "EDWARD F KNAPP STATE ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "EDWARD G PITKA SR ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "EDWARDS AIR FORCE BASE",
+      "incidents": 1
+    },
+    {
+      "airport": "ELIZABETHTON MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "ELK GROVE ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "EMMONAK ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "ENTERPRISE MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "EPHRAIM- FISH CREEK",
+      "incidents": 1
+    },
+    {
+      "airport": "ERNESTO CORTISSOZ",
+      "incidents": 1
+    },
+    {
+      "airport": "EVANSTON-UINTA COUNTY BURNS FIELD",
+      "incidents": 1
+    },
+    {
+      "airport": "FAIRMONT MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "FARMINGTON REGIONAL",
+      "incidents": 1
+    },
+    {
+      "airport": "FELTS FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "FERANDINA BEACH MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "FERGUS FALLS MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "FESTUS MEMORIAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "FORD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "FORT DODGE REGIONAL",
+      "incidents": 1
+    },
+    {
+      "airport": "FRANK WILEY FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "FRANKLIN FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "FRENCH LICK MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "FRIDAY HARBOR ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "GAINESVILLE MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "GALILEO GALILEI ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "GENERAL IGNACIO P GARCIA INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "GENERAL RAFAEL BUELNA INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "GENERAL WM J FOX AIRFIELD",
+      "incidents": 1
+    },
+    {
+      "airport": "GENESEE COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "GEORGE M BRYAN ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "GEORGETOWN MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "GILLESPIE COUNTY",
+      "incidents": 1
+    },
+    {
+      "airport": "GILLESPIE FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "GLACIER PARK INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "GLADEWATER MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "GRAND RAPIDS/ITASCA COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "GRANITE FALLS MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "GRATIOT COMMUNITY",
+      "incidents": 1
+    },
+    {
+      "airport": "GRAYSON COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "GREATER PORTSMOUTH REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "GRIFFING SANDUSKY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "GUSTAVO ROJAS PINILLA INTL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "GWINNER-ROGER MELROE FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "H L SONNY CALLAHAN ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "HAMILTON ISLAND",
+      "incidents": 1
+    },
+    {
+      "airport": "HAMILTON MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "HANA ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "HANCOCK COUNTY-BAR HARBOR",
+      "incidents": 1
+    },
+    {
+      "airport": "HARDY-ANDERS FLD NATCHEZ-ADAMS CNTY",
+      "incidents": 1
+    },
+    {
+      "airport": "HARRISON COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "HARVEY FIELD",
+      "incidents": 1
+    },
+    {
+      "airport": "HAVRE CITY-COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "HAWKINS ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "HEBER CITY MUNICIPAL",
+      "incidents": 1
+    },
+    {
+      "airport": "HENRI COANDA INTL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "HERLONG ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "HERNANDO COUNTY",
+      "incidents": 1
+    },
+    {
+      "airport": "HICKORY REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "HIGGINSVILLE INDUSTRIAL MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "HILTON HEAD ISLAND",
+      "incidents": 1
+    },
+    {
+      "airport": "HOBBY FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "HOMER ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "HOUSTON GULF ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "HOUSTON MEMORIAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "HUSLIA ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "HUTCHINSON MUNICIPAL",
+      "incidents": 1
+    },
+    {
+      "airport": "IMMOKALEE REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "IOWA FALLS MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "ISLESBORO",
+      "incidents": 1
+    },
+    {
+      "airport": "IXTAPA-ZIHUATENEJO",
+      "incidents": 1
+    },
+    {
+      "airport": "JACK MCNAMARA FLD",
+      "incidents": 1
+    },
+    {
+      "airport": "JAMES CLEMENTS MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "JASPER COUNTY ARPT-BELL FIELD",
+      "incidents": 1
+    },
+    {
+      "airport": "JEFFERSON COUNTY INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "JESSE VIERTEL MEMORIAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "JOHN C TUNE ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "JOHN H BATTEN ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "JOHNSTON ATOLL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "JONESBORO MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "JOSE MARIA CORDOVE ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "KALAUPAPA ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "KANSAI INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "KENTMORR AIRPARK",
+      "incidents": 1
+    },
+    {
+      "airport": "KEY FLD",
+      "incidents": 1
+    },
+    {
+      "airport": "KICKAPOO DOWNTOWN ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "KILLEEN/FT HOOD REGIONAL",
+      "incidents": 1
+    },
+    {
+      "airport": "KINGS LAND O' LAKES ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "KINSTON REGL JETPORT",
+      "incidents": 1
+    },
+    {
+      "airport": "KIPNUK ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "KNOX COUNTY REGIONAL",
+      "incidents": 1
+    },
+    {
+      "airport": "KNOXVILLE DOWNTOWN ISLAND ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "KONGIGANAK ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "KUNSAN",
+      "incidents": 1
+    },
+    {
+      "airport": "LAKE CHARLES REGIONAL",
+      "incidents": 1
+    },
+    {
+      "airport": "LAKE CITY MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "LAKE HAVASU CITY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "LAKE PALOURDE BASE HELIPORT",
+      "incidents": 1
+    },
+    {
+      "airport": "LAWRENCE J TIMMERMAN ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "LAWRENCE MUNICIPAL  ARPT (KS)",
+      "incidents": 1
+    },
+    {
+      "airport": "LEA COUNTY REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "LIMA ALLEN COUNTY",
+      "incidents": 1
+    },
+    {
+      "airport": "LINDEN AIRPORT",
+      "incidents": 1
+    },
+    {
+      "airport": "LITTLE RIVER ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "LIVINGSTON COUNTY SPENCER J HARDY",
+      "incidents": 1
+    },
+    {
+      "airport": "LLANO MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "LOGAN-CACHE ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "LONDON-LUTON ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "LOUISA COUNTY ARPT/FREEMAN FLD",
+      "incidents": 1
+    },
+    {
+      "airport": "LT WARREN EATON ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "M GRAHAM CLARK - TANEY COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MACKINAC COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MADISON COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MADISONVILLE MUNICIPAL",
+      "incidents": 1
+    },
+    {
+      "airport": "MAGNOLIA MUNICIPAL",
+      "incidents": 1
+    },
+    {
+      "airport": "MALAGA ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MANDAN MUNICIPAL",
+      "incidents": 1
+    },
+    {
+      "airport": "MANITOWOC COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MANKATO REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MANLEY HOT SPRINGS ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MANSFIELD MUNICIPAL",
+      "incidents": 1
+    },
+    {
+      "airport": "MARANA REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MARCH ARB ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MARCO ISLAND ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MARCO POLO INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "MARIANNA MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MARSHALL ISLANDS INTL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MARSHFIELD MUNI/G HARLOW FLD",
+      "incidents": 1
+    },
+    {
+      "airport": "MASON COUNTY ARPT (MI)",
+      "incidents": 1
+    },
+    {
+      "airport": "MASSEY RANCH AIRPARK",
+      "incidents": 1
+    },
+    {
+      "airport": "MC KELLER FLD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MCCORD FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MCMINN COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MEFFORD FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MELVILLE HALL AIRPORT",
+      "incidents": 1
+    },
+    {
+      "airport": "MERRIT ISLAND ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MESQUITE METRO ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MIAMI COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MID-DELTA REGIONAL",
+      "incidents": 1
+    },
+    {
+      "airport": "MIDDLE BASS-EAST POINT",
+      "incidents": 1
+    },
+    {
+      "airport": "MIDDLE PENINSULA REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MILLARD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MILLINGTON REGIONAL JETPORT ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MILLVILLE MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MINOT INTL AIRPORT",
+      "incidents": 1
+    },
+    {
+      "airport": "MONETT MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MONTREAL INTL (MIRABEL)",
+      "incidents": 1
+    },
+    {
+      "airport": "MORAN FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MOUNT AIRY/SURRY COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MOUNT HAWLEY",
+      "incidents": 1
+    },
+    {
+      "airport": "MUIR ARMY AIRFIELD",
+      "incidents": 1
+    },
+    {
+      "airport": "MUNICH INTL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "MURFREESBORO MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "NEVADA COUNTY AIR PARK",
+      "incidents": 1
+    },
+    {
+      "airport": "NEWPORT STATE ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "NEWTOK ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "NEWTON CITY/COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "NOGALES INTL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "NOME ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "NORTH BIG HORN COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "NORTH PALM BEACH CNTY GEN AVTN",
+      "incidents": 1
+    },
+    {
+      "airport": "NORTH TEXAS REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "NORTHAMPTON ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "NORTHEASTERN REGIONAL",
+      "incidents": 1
+    },
+    {
+      "airport": "NORTHERN MAINE REGIONAL",
+      "incidents": 1
+    },
+    {
+      "airport": "NUT TREE AIRPORT",
+      "incidents": 1
+    },
+    {
+      "airport": "OGDENSBURG INTL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "ONA AIRPARK ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "ONTARIO MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "ORCAS ISLAND ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "OSCEOLA MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "OTTAWA/MACDONALD-CARTIER INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "PALESTINE MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "PALMYRA (COOPER) AIRPORT",
+      "incidents": 1
+    },
+    {
+      "airport": "PATUXENT RIVER NAS",
+      "incidents": 1
+    },
+    {
+      "airport": "PAUL C MILLER-SPARTA ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "PEARLAND REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "PEARSON FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "PELLSTON REGIONAL",
+      "incidents": 1
+    },
+    {
+      "airport": "PENANG INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "PERRY COUNTY MUNICIPAL",
+      "incidents": 1
+    },
+    {
+      "airport": "PETALUMA MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "PETER PRINCE FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "PHILIP BILLARD MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "PIARCO TRINIDAD",
+      "incidents": 1
+    },
+    {
+      "airport": "PINAL AIRPARK",
+      "incidents": 1
+    },
+    {
+      "airport": "POMPANO BEACH AIRPARK",
+      "incidents": 1
+    },
+    {
+      "airport": "POPLAR BLUFF MUNICIPAL",
+      "incidents": 1
+    },
+    {
+      "airport": "PORT GRAHAM ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "POTSDAM MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "PRICE COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "PRINCESS JULIANA",
+      "incidents": 1
+    },
+    {
+      "airport": "PRINCEVILLE ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "PRYOR FIELD REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "PUT IN BAY",
+      "incidents": 1
+    },
+    {
+      "airport": "QUEBEC/JEAN LESAGE INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "QUINCY REGIONAL ARPT - BALDWIN FLD",
+      "incidents": 1
+    },
+    {
+      "airport": "QUINN FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "RAMONA ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "RAMSTEIN AIR FORCE BASE",
+      "incidents": 1
+    },
+    {
+      "airport": "RANGE REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "RAS TANAJIB",
+      "incidents": 1
+    },
+    {
+      "airport": "RICHARD I BONG ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "RICHLAND ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "RIO VISTA MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "RIVERTON REGIONAL",
+      "incidents": 1
+    },
+    {
+      "airport": "RIYAHD AIR BASE",
+      "incidents": 1
+    },
+    {
+      "airport": "ROBT J MILLER AIR PARK",
+      "incidents": 1
+    },
+    {
+      "airport": "ROCK HILL (YORK CO) BRYANT FLD",
+      "incidents": 1
+    },
+    {
+      "airport": "ROCKY MOUNT WILSON RGNL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "ROLLA NATIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "ROSEAU MUNI ARPT/RUDY BILLBERG FLD",
+      "incidents": 1
+    },
+    {
+      "airport": "ROSTRAVER",
+      "incidents": 1
+    },
+    {
+      "airport": "ROWAN COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "RUSSELLVILLE REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "RYAN FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "SAINT HUBERT",
+      "incidents": 1
+    },
+    {
+      "airport": "SALINA MUNICIPAL",
+      "incidents": 1
+    },
+    {
+      "airport": "SAN SALVADOR INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "SAND POINT ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "SANFORD REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "SASKATOON/JOHN G. DIEFENBAKER INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "SCAMMON BAY AIRPORT",
+      "incidents": 1
+    },
+    {
+      "airport": "SCHENECTADY COUNTY",
+      "incidents": 1
+    },
+    {
+      "airport": "SCOTT CITY MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "SEBRING REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "SELAWICK ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "SHALZ FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "SHANNON INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "SHEBOYGAN COUNTY MEMORIAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "SHELL LAKE MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "SHENZHEN",
+      "incidents": 1
+    },
+    {
+      "airport": "SHEREMETYEVO INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "SHERIDAN COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "SHOW LOW REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "SHREVEPORT DOWNTOWN ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "SIDNEY-RICHLAND MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "SIGONELLA",
+      "incidents": 1
+    },
+    {
+      "airport": "SLIDELL AIRPORT",
+      "incidents": 1
+    },
+    {
+      "airport": "SOLDOTNA AIRPORT",
+      "incidents": 1
+    },
+    {
+      "airport": "SOUTHBRIDGE MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "SOUTHERN ILLINOIS",
+      "incidents": 1
+    },
+    {
+      "airport": "SPENCER MUNICIPAL AIRPORT",
+      "incidents": 1
+    },
+    {
+      "airport": "SPRINGDALE MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "SPRINGERVILLE MUNICIPAL",
+      "incidents": 1
+    },
+    {
+      "airport": "SPRINGFIELD BECKLEY MUNICIPAL",
+      "incidents": 1
+    },
+    {
+      "airport": "ST. GEORGE  ARPT (AK)",
+      "incidents": 1
+    },
+    {
+      "airport": "ST. LUCIA-VIGIE",
+      "incidents": 1
+    },
+    {
+      "airport": "STANSTEAD-LONDON",
+      "incidents": 1
+    },
+    {
+      "airport": "STELLAR AIRPARK",
+      "incidents": 1
+    },
+    {
+      "airport": "STENNIS INTL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "STUTTGART GERMANY",
+      "incidents": 1
+    },
+    {
+      "airport": "SUBIC BAY INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "SUNDANCE AIRPARK",
+      "incidents": 1
+    },
+    {
+      "airport": "SUNRIVER",
+      "incidents": 1
+    },
+    {
+      "airport": "SUVA FIJI",
+      "incidents": 1
+    },
+    {
+      "airport": "T B LETTSOME INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "TEHACHAPI MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "THE FLORIDA KEYS MARATHON",
+      "incidents": 1
+    },
+    {
+      "airport": "THIEF RIVER FALLS REGIONAL",
+      "incidents": 1
+    },
+    {
+      "airport": "TIANJIN (CHINA)",
+      "incidents": 1
+    },
+    {
+      "airport": "TOLUCA/LIC ADOLFO",
+      "incidents": 1
+    },
+    {
+      "airport": "TRACY MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "TRAVIS AIR FORCE BASE",
+      "incidents": 1
+    },
+    {
+      "airport": "TREVISO ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "TRIPLE W ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "TROY MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "TULIP CITY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "TUNICA MUNI ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "TYONEK ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "UGNU-KUPARUK ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "UKIAH MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "V C BIRD INTL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "VALENCIA AIRPORT",
+      "incidents": 1
+    },
+    {
+      "airport": "VALKARIA",
+      "incidents": 1
+    },
+    {
+      "airport": "VANCE BRAND ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "VANDENBERG ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "VICKSBURG TALLULAH REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "VICTORIA INTL",
+      "incidents": 1
+    },
+    {
+      "airport": "VIRACOPOS-CAMPINAS INTL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "WALDRONAIRE ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "WALLBLAKE",
+      "incidents": 1
+    },
+    {
+      "airport": "WARREN FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "WASHINGTON COUNTY",
+      "incidents": 1
+    },
+    {
+      "airport": "WASHINGTON COUNTY MEMORIAL",
+      "incidents": 1
+    },
+    {
+      "airport": "WASHINGTON EXECUTIVE ARPT HYDE FIELD",
+      "incidents": 1
+    },
+    {
+      "airport": "WATERTOWN",
+      "incidents": 1
+    },
+    {
+      "airport": "WATERTOWN INTL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "WATERTOWN MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "WAUKESHA COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "WAUPACA MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "WAYNE COUNTY",
+      "incidents": 1
+    },
+    {
+      "airport": "WAYNE MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "WENDOVER ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "WEST PLAINS REGIONAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "WHEELER-SACK ARMY AIRFIELD",
+      "incidents": 1
+    },
+    {
+      "airport": "WILLOUGHBY LOST NATION MUNI ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "WINDHAM ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "WINONA MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "WINSTON FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "WORTHINGTON MUNICIPAL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "YAZOO COUNTY ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "YELLOWSTONE ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "YOUNGSTOWN-WARREN RGNL ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "ZAMPERINI FIELD ARPT",
+      "incidents": 1
+    },
+    {
+      "airport": "ZELIENOPLE MUNICIPAL",
+      "incidents": 1
+    },
+    {
+      "airport": "ZURICH",
+      "incidents": 1
+    }
+  ],
+  "annual": [
+    {
+      "year": 2000,
+      "incidents": 1367
+    },
+    {
+      "year": 2001,
+      "incidents": 1230
+    },
+    {
+      "year": 2002,
+      "incidents": 1681
+    },
+    {
+      "year": 2003,
+      "incidents": 1568
+    },
+    {
+      "year": 2004,
+      "incidents": 1692
+    },
+    {
+      "year": 2005,
+      "incidents": 1853
+    },
+    {
+      "year": 2006,
+      "incidents": 2159
+    },
+    {
+      "year": 2007,
+      "incidents": 2301
+    },
+    {
+      "year": 2008,
+      "incidents": 2258
+    },
+    {
+      "year": 2009,
+      "incidents": 3247
+    },
+    {
+      "year": 2010,
+      "incidents": 3081
+    },
+    {
+      "year": 2011,
+      "incidents": 2952
+    }
+  ],
+  "phases": [
+    {
+      "phase": "Approach",
+      "incidents": 10369,
+      "damaged_incidents": 980
+    },
+    {
+      "phase": "Landing Roll",
+      "incidents": 5039,
+      "damaged_incidents": 236
+    },
+    {
+      "phase": "Take-off run",
+      "incidents": 4704,
+      "damaged_incidents": 375
+    },
+    {
+      "phase": "Climb",
+      "incidents": 4419,
+      "damaged_incidents": 690
+    },
+    {
+      "phase": "Descent",
+      "incidents": 774,
+      "damaged_incidents": 155
+    },
+    {
+      "phase": "Unknown",
+      "incidents": 129,
+      "damaged_incidents": 23
+    },
+    {
+      "phase": "Taxi",
+      "incidents": 74,
+      "damaged_incidents": 4
+    },
+    {
+      "phase": "Parked",
+      "incidents": 10,
+      "damaged_incidents": 2
+    }
+  ],
+  "species_cost": [
+    {
+      "species": "Canada goose",
+      "incidents": 370,
+      "total_reported_cost": 20664597,
+      "damaged_incidents": 209
+    },
+    {
+      "species": "White-tailed deer",
+      "incidents": 85,
+      "total_reported_cost": 17155662,
+      "damaged_incidents": 79
+    },
+    {
+      "species": "Unknown bird - medium",
+      "incidents": 4316,
+      "total_reported_cost": 9953298,
+      "damaged_incidents": 509
+    },
+    {
+      "species": "Bald eagle",
+      "incidents": 52,
+      "total_reported_cost": 7723932,
+      "damaged_incidents": 25
+    },
+    {
+      "species": "Unknown bird - large",
+      "incidents": 796,
+      "total_reported_cost": 7342719,
+      "damaged_incidents": 285
+    },
+    {
+      "species": "Turkey vulture",
+      "incidents": 178,
+      "total_reported_cost": 6705265,
+      "damaged_incidents": 95
+    },
+    {
+      "species": "White-tailed kite",
+      "incidents": 7,
+      "total_reported_cost": 5704387,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Greater white-fronted goose",
+      "incidents": 19,
+      "total_reported_cost": 4348994,
+      "damaged_incidents": 12
+    },
+    {
+      "species": "Unknown bird - small",
+      "incidents": 10494,
+      "total_reported_cost": 4083892,
+      "damaged_incidents": 278
+    },
+    {
+      "species": "Snow goose",
+      "incidents": 34,
+      "total_reported_cost": 3744528,
+      "damaged_incidents": 25
+    },
+    {
+      "species": "European starling",
+      "incidents": 883,
+      "total_reported_cost": 3717073,
+      "damaged_incidents": 49
+    },
+    {
+      "species": "Mallard",
+      "incidents": 140,
+      "total_reported_cost": 3717010,
+      "damaged_incidents": 48
+    },
+    {
+      "species": "American white pelican",
+      "incidents": 8,
+      "total_reported_cost": 3665965,
+      "damaged_incidents": 6
+    },
+    {
+      "species": "Ferruginous hawk",
+      "incidents": 2,
+      "total_reported_cost": 3463526,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Killdeer",
+      "incidents": 468,
+      "total_reported_cost": 2970170,
+      "damaged_incidents": 15
+    },
+    {
+      "species": "Red-tailed hawk",
+      "incidents": 411,
+      "total_reported_cost": 2852564,
+      "damaged_incidents": 108
+    },
+    {
+      "species": "Ring-billed gull",
+      "incidents": 241,
+      "total_reported_cost": 2757999,
+      "damaged_incidents": 42
+    },
+    {
+      "species": "Mourning dove",
+      "incidents": 896,
+      "total_reported_cost": 2708015,
+      "damaged_incidents": 51
+    },
+    {
+      "species": "Great blue heron",
+      "incidents": 81,
+      "total_reported_cost": 2605035,
+      "damaged_incidents": 31
+    },
+    {
+      "species": "Great egret",
+      "incidents": 22,
+      "total_reported_cost": 2273115,
+      "damaged_incidents": 7
+    },
+    {
+      "species": "Western grebe",
+      "incidents": 4,
+      "total_reported_cost": 2111275,
+      "damaged_incidents": 3
+    },
+    {
+      "species": "Coyote",
+      "incidents": 59,
+      "total_reported_cost": 1757310,
+      "damaged_incidents": 4
+    },
+    {
+      "species": "Western gull",
+      "incidents": 21,
+      "total_reported_cost": 1697028,
+      "damaged_incidents": 3
+    },
+    {
+      "species": "Northern pintail",
+      "incidents": 59,
+      "total_reported_cost": 1652003,
+      "damaged_incidents": 31
+    },
+    {
+      "species": "Northern shoveler",
+      "incidents": 17,
+      "total_reported_cost": 1631391,
+      "damaged_incidents": 10
+    },
+    {
+      "species": "Black vulture",
+      "incidents": 37,
+      "total_reported_cost": 1535510,
+      "damaged_incidents": 25
+    },
+    {
+      "species": "Gadwall",
+      "incidents": 15,
+      "total_reported_cost": 1374636,
+      "damaged_incidents": 6
+    },
+    {
+      "species": "Rock pigeon",
+      "incidents": 594,
+      "total_reported_cost": 1345106,
+      "damaged_incidents": 77
+    },
+    {
+      "species": "American kestrel",
+      "incidents": 444,
+      "total_reported_cost": 1095756,
+      "damaged_incidents": 9
+    },
+    {
+      "species": "Yellow-legged gull",
+      "incidents": 1,
+      "total_reported_cost": 872290,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Double-crested cormorant",
+      "incidents": 26,
+      "total_reported_cost": 823838,
+      "damaged_incidents": 17
+    },
+    {
+      "species": "Muscovy duck",
+      "incidents": 1,
+      "total_reported_cost": 562030,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Trumpeter swan",
+      "incidents": 1,
+      "total_reported_cost": 541145,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Grebes",
+      "incidents": 1,
+      "total_reported_cost": 496000,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Sharp-shinned hawk",
+      "incidents": 1,
+      "total_reported_cost": 360000,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Herring gull",
+      "incidents": 194,
+      "total_reported_cost": 353706,
+      "damaged_incidents": 40
+    },
+    {
+      "species": "Domestic dog",
+      "incidents": 1,
+      "total_reported_cost": 351405,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Snowy owl",
+      "incidents": 15,
+      "total_reported_cost": 319985,
+      "damaged_incidents": 4
+    },
+    {
+      "species": "Pacific golden-plover",
+      "incidents": 172,
+      "total_reported_cost": 309495,
+      "damaged_incidents": 3
+    },
+    {
+      "species": "Glaucous gull",
+      "incidents": 10,
+      "total_reported_cost": 300000,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Brown pelican",
+      "incidents": 17,
+      "total_reported_cost": 288102,
+      "damaged_incidents": 5
+    },
+    {
+      "species": "Wild turkey",
+      "incidents": 26,
+      "total_reported_cost": 269275,
+      "damaged_incidents": 10
+    },
+    {
+      "species": "Black-crowned night-heron",
+      "incidents": 3,
+      "total_reported_cost": 263755,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "California gull",
+      "incidents": 38,
+      "total_reported_cost": 247976,
+      "damaged_incidents": 7
+    },
+    {
+      "species": "Dunlin",
+      "incidents": 5,
+      "total_reported_cost": 240127,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Gulls",
+      "incidents": 42,
+      "total_reported_cost": 232500,
+      "damaged_incidents": 8
+    },
+    {
+      "species": "Barn owl",
+      "incidents": 130,
+      "total_reported_cost": 163983,
+      "damaged_incidents": 12
+    },
+    {
+      "species": "Peregrine falcon",
+      "incidents": 39,
+      "total_reported_cost": 139673,
+      "damaged_incidents": 11
+    },
+    {
+      "species": "American robin",
+      "incidents": 128,
+      "total_reported_cost": 136117,
+      "damaged_incidents": 11
+    },
+    {
+      "species": "Western meadowlark",
+      "incidents": 106,
+      "total_reported_cost": 134089,
+      "damaged_incidents": 4
+    },
+    {
+      "species": "Eastern meadowlark",
+      "incidents": 108,
+      "total_reported_cost": 133472,
+      "damaged_incidents": 3
+    },
+    {
+      "species": "Black-bellied plover",
+      "incidents": 26,
+      "total_reported_cost": 132433,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Osprey",
+      "incidents": 62,
+      "total_reported_cost": 130756,
+      "damaged_incidents": 25
+    },
+    {
+      "species": "Tundra swan",
+      "incidents": 4,
+      "total_reported_cost": 128283,
+      "damaged_incidents": 4
+    },
+    {
+      "species": "Lesser scaup",
+      "incidents": 9,
+      "total_reported_cost": 123476,
+      "damaged_incidents": 5
+    },
+    {
+      "species": "Unknown bird or bat",
+      "incidents": 60,
+      "total_reported_cost": 104776,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "American coot",
+      "incidents": 24,
+      "total_reported_cost": 100595,
+      "damaged_incidents": 6
+    },
+    {
+      "species": "American crow",
+      "incidents": 69,
+      "total_reported_cost": 94141,
+      "damaged_incidents": 4
+    },
+    {
+      "species": "Sandhill crane",
+      "incidents": 39,
+      "total_reported_cost": 92342,
+      "damaged_incidents": 17
+    },
+    {
+      "species": "Ruddy duck",
+      "incidents": 8,
+      "total_reported_cost": 90022,
+      "damaged_incidents": 5
+    },
+    {
+      "species": "Common raven",
+      "incidents": 9,
+      "total_reported_cost": 82045,
+      "damaged_incidents": 5
+    },
+    {
+      "species": "Laysan albatross",
+      "incidents": 27,
+      "total_reported_cost": 74072,
+      "damaged_incidents": 7
+    },
+    {
+      "species": "Ring-necked duck",
+      "incidents": 3,
+      "total_reported_cost": 73669,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Glaucous-winged gull",
+      "incidents": 22,
+      "total_reported_cost": 60246,
+      "damaged_incidents": 5
+    },
+    {
+      "species": "Whooping crane",
+      "incidents": 1,
+      "total_reported_cost": 55893,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Red fox",
+      "incidents": 13,
+      "total_reported_cost": 54815,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Mule deer",
+      "incidents": 3,
+      "total_reported_cost": 53092,
+      "damaged_incidents": 3
+    },
+    {
+      "species": "Redhead",
+      "incidents": 2,
+      "total_reported_cost": 51336,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Whimbrel",
+      "incidents": 4,
+      "total_reported_cost": 50000,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Great horned owl",
+      "incidents": 16,
+      "total_reported_cost": 48864,
+      "damaged_incidents": 8
+    },
+    {
+      "species": "Ring-necked pheasant",
+      "incidents": 13,
+      "total_reported_cost": 42690,
+      "damaged_incidents": 5
+    },
+    {
+      "species": "Rough-legged hawk",
+      "incidents": 11,
+      "total_reported_cost": 41068,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Sandpipers",
+      "incidents": 7,
+      "total_reported_cost": 41068,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Pied-billed grebe",
+      "incidents": 3,
+      "total_reported_cost": 39983,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Greater sage-grouse",
+      "incidents": 2,
+      "total_reported_cost": 35141,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Black-tailed jackrabbit",
+      "incidents": 10,
+      "total_reported_cost": 29325,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Green-winged teal",
+      "incidents": 11,
+      "total_reported_cost": 22304,
+      "damaged_incidents": 5
+    },
+    {
+      "species": "Great black-backed gull",
+      "incidents": 14,
+      "total_reported_cost": 21766,
+      "damaged_incidents": 3
+    },
+    {
+      "species": "Wood stork",
+      "incidents": 4,
+      "total_reported_cost": 21083,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Geese",
+      "incidents": 1,
+      "total_reported_cost": 21000,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Sora",
+      "incidents": 1,
+      "total_reported_cost": 18500,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Cliff swallow",
+      "incidents": 183,
+      "total_reported_cost": 18339,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Red-naped sapsucker",
+      "incidents": 1,
+      "total_reported_cost": 17570,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Mew gull",
+      "incidents": 14,
+      "total_reported_cost": 16360,
+      "damaged_incidents": 4
+    },
+    {
+      "species": "Cattle egret",
+      "incidents": 80,
+      "total_reported_cost": 14295,
+      "damaged_incidents": 15
+    },
+    {
+      "species": "Ducks",
+      "incidents": 7,
+      "total_reported_cost": 14000,
+      "damaged_incidents": 5
+    },
+    {
+      "species": "Western sandpiper",
+      "incidents": 26,
+      "total_reported_cost": 13987,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Varied thrush",
+      "incidents": 7,
+      "total_reported_cost": 12274,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Snow bunting",
+      "incidents": 61,
+      "total_reported_cost": 11254,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Dark-eyed junco",
+      "incidents": 10,
+      "total_reported_cost": 10503,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Greater yellowlegs",
+      "incidents": 1,
+      "total_reported_cost": 8433,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "American pipit",
+      "incidents": 10,
+      "total_reported_cost": 7879,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Common loon",
+      "incidents": 7,
+      "total_reported_cost": 7606,
+      "damaged_incidents": 4
+    },
+    {
+      "species": "Red-tailed tropicbird",
+      "incidents": 1,
+      "total_reported_cost": 7289,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Laughing gull",
+      "incidents": 49,
+      "total_reported_cost": 5762,
+      "damaged_incidents": 6
+    },
+    {
+      "species": "Brown-headed cowbird",
+      "incidents": 30,
+      "total_reported_cost": 5729,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Horned lark",
+      "incidents": 337,
+      "total_reported_cost": 5474,
+      "damaged_incidents": 4
+    },
+    {
+      "species": "Broad-winged hawk",
+      "incidents": 4,
+      "total_reported_cost": 5134,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Wood duck",
+      "incidents": 4,
+      "total_reported_cost": 5071,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Scissor-tailed flycatcher",
+      "incidents": 20,
+      "total_reported_cost": 4267,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Anhinga",
+      "incidents": 8,
+      "total_reported_cost": 3889,
+      "damaged_incidents": 3
+    },
+    {
+      "species": "Ptarmigans",
+      "incidents": 1,
+      "total_reported_cost": 3608,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "American woodcock",
+      "incidents": 9,
+      "total_reported_cost": 3080,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Hawks",
+      "incidents": 22,
+      "total_reported_cost": 2669,
+      "damaged_incidents": 7
+    },
+    {
+      "species": "American wigeon",
+      "incidents": 11,
+      "total_reported_cost": 2297,
+      "damaged_incidents": 4
+    },
+    {
+      "species": "Common goldeneye",
+      "incidents": 3,
+      "total_reported_cost": 2282,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Red-throated loon",
+      "incidents": 2,
+      "total_reported_cost": 2165,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Barn swallow",
+      "incidents": 578,
+      "total_reported_cost": 2029,
+      "damaged_incidents": 4
+    },
+    {
+      "species": "Red-winged blackbird",
+      "incidents": 31,
+      "total_reported_cost": 1976,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "American black duck",
+      "incidents": 5,
+      "total_reported_cost": 1711,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Long-tailed duck",
+      "incidents": 2,
+      "total_reported_cost": 1160,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Sparrows",
+      "incidents": 72,
+      "total_reported_cost": 1130,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Northern bobwhite",
+      "incidents": 2,
+      "total_reported_cost": 1069,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Zebra dove",
+      "incidents": 42,
+      "total_reported_cost": 1027,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Blue-winged teal",
+      "incidents": 3,
+      "total_reported_cost": 1000,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Chimney swift",
+      "incidents": 48,
+      "total_reported_cost": 962,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Swainson's thrush",
+      "incidents": 12,
+      "total_reported_cost": 727,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Wilson's snipe",
+      "incidents": 10,
+      "total_reported_cost": 600,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Burrowing owl",
+      "incidents": 18,
+      "total_reported_cost": 513,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Gray catbird",
+      "incidents": 7,
+      "total_reported_cost": 513,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Merlin",
+      "incidents": 7,
+      "total_reported_cost": 513,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Swainson's hawk",
+      "incidents": 21,
+      "total_reported_cost": 513,
+      "damaged_incidents": 5
+    },
+    {
+      "species": "Blackpoll warbler",
+      "incidents": 9,
+      "total_reported_cost": 466,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Short-eared owl",
+      "incidents": 52,
+      "total_reported_cost": 378,
+      "damaged_incidents": 3
+    },
+    {
+      "species": "Pectoral sandpiper",
+      "incidents": 3,
+      "total_reported_cost": 333,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Pigeons",
+      "incidents": 7,
+      "total_reported_cost": 329,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Armadillo",
+      "incidents": 2,
+      "total_reported_cost": 316,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Blackbirds",
+      "incidents": 62,
+      "total_reported_cost": 308,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "House sparrow",
+      "incidents": 29,
+      "total_reported_cost": 257,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Nelson's sharp-tailed sparrow",
+      "incidents": 1,
+      "total_reported_cost": 205,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Piping plover",
+      "incidents": 1,
+      "total_reported_cost": 205,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Franklin's gull",
+      "incidents": 22,
+      "total_reported_cost": 200,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Barred owl",
+      "incidents": 4,
+      "total_reported_cost": 154,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Tree swallow",
+      "incidents": 128,
+      "total_reported_cost": 59,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Yellow-rumped warbler",
+      "incidents": 11,
+      "total_reported_cost": 48,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Acadian flycatcher",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "American alligator",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "American avocet",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "American bittern",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "American golden-plover",
+      "incidents": 19,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "American goldfinch",
+      "incidents": 4,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "American redstart",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "American tree sparrow",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Anna's hummingbird",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Baird's sandpiper",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Baltimore oriole",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Bank swallow",
+      "incidents": 66,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Belted kingfisher",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Big brown bat",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Black francolin",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Black-bellied whistling-duck",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Black-billed magpie",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Black-capped chickadee",
+      "incidents": 8,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Black-footed albatross",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Black-headed munia",
+      "incidents": 16,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Black-necked stilt",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Black-throated blue warbler",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Black-throated green warbler",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Blackburnian warbler",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Blue jay",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Boat-tailed grackle",
+      "incidents": 5,
+      "total_reported_cost": 0,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Bobolink",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Bohemian waxwing",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Bonaparte's gull",
+      "incidents": 5,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Bonin petrel",
+      "incidents": 5,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Brant",
+      "incidents": 5,
+      "total_reported_cost": 0,
+      "damaged_incidents": 3
+    },
+    {
+      "species": "Brazilian free-tailed bat",
+      "incidents": 12,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Brewer's blackbird",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Brown noddy",
+      "incidents": 7,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Brown thrasher",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Buff-breasted sandpiper",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Bufflehead",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Bushtit",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "California towhee",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Canada warbler",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Canvasback",
+      "incidents": 6,
+      "total_reported_cost": 0,
+      "damaged_incidents": 3
+    },
+    {
+      "species": "Cape May warbler",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Carolina chickadee",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Caspian tern",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Cassin's vireo",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Cave swallow",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Cedar waxwing",
+      "incidents": 16,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Chestnut-collared longspur",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Chipping sparrow",
+      "incidents": 5,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Chuck-will's-widow",
+      "incidents": 4,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Chukar",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Cinnamon teal",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Common grackle",
+      "incidents": 24,
+      "total_reported_cost": 0,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Common ground-dove",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Common merganser",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Common myna",
+      "incidents": 20,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Common nighthawk",
+      "incidents": 36,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Common poorwill",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Common tern",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Common waxbill",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Common yellowthroat",
+      "incidents": 4,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Cooper's hawk",
+      "incidents": 10,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Crested caracara",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Domestic cat",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Doves",
+      "incidents": 14,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Eastern kingbird",
+      "incidents": 4,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Eastern phoebe",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Eastern towhee",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Egrets",
+      "incidents": 6,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "European golden-plover",
+      "incidents": 4,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Fairy tern",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Field sparrow",
+      "incidents": 5,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Finches",
+      "incidents": 23,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Fox sparrow",
+      "incidents": 5,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Golden eagle",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Golden-crowned kinglet",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Golden-crowned sparrow",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Grackles",
+      "incidents": 4,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Grasshopper sparrow",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Gray flycatcher",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Gray francolin",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Gray partridge",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Gray-cheeked thrush",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Gray-headed chickadee",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Great cormorant",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Great frigatebird",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Great-tailed grackle",
+      "incidents": 5,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Greater scaup",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Green heron",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Gunnison's prairie dog",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Hairy woodpecker",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Hawks, eagles, vultures",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Hermit thrush",
+      "incidents": 10,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Horned grebe",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "House finch",
+      "incidents": 11,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "House wren",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Indigo bunting",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Japanese white-eye",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Java sparrow",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Lapland longspur",
+      "incidents": 7,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Lark bunting",
+      "incidents": 6,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Lark sparrow",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Least bittern",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Least sandpiper",
+      "incidents": 16,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Least tern",
+      "incidents": 4,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Lesser goldfinch",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Lincoln's sparrow",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Little brown bat",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Loggerhead shrike",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Long-billed dowitcher",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Long-tailed jaeger",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "McKay's bunting",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Meadowlarks",
+      "incidents": 72,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Mottled duck",
+      "incidents": 7,
+      "total_reported_cost": 0,
+      "damaged_incidents": 3
+    },
+    {
+      "species": "Mountain bluebird",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Mountain chickadee",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Mute swan",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Nashville warbler",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "New World Vultures",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Northern cardinal",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Northern flicker",
+      "incidents": 7,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Northern harrier",
+      "incidents": 12,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Northern hawk owl",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Northern mockingbird",
+      "incidents": 8,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Northern parula",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Northern rough-winged swallow",
+      "incidents": 5,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Northern saw-whet owl",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Northern waterthrush",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Northwestern crow",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Nutmeg mannikin",
+      "incidents": 23,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Orange-crowned warbler",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Orchard oriole",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Ovenbird",
+      "incidents": 4,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Owls",
+      "incidents": 5,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Pacific-slope flycatcher",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Palm warbler",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Parrots",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Perching birds (y)",
+      "incidents": 22,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Pigeons, doves",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Pine grosbeak",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Pine siskin",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Pine warbler",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Plovers",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Prairie dog",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Prairie falcon",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Purple finch",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Purple martin",
+      "incidents": 37,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Raccoon",
+      "incidents": 5,
+      "total_reported_cost": 0,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "Red avadavat",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Red knot",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Red-breasted merganser",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Red-crested cardinal",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Red-eyed vireo",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Red-legged kittiwake",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Red-shouldered hawk",
+      "incidents": 4,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Red-vented bulbul",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Rock sandpiper",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Rose-breasted grosbeak",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Ruby-crowned kinglet",
+      "incidents": 4,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Ruby-throated hummingbird",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Ruddy turnstone",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Sage sparrow",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Sanderling",
+      "incidents": 5,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Savannah sparrow",
+      "incidents": 40,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Scarlet tanager",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Semipalmated plover",
+      "incidents": 9,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Semipalmated sandpiper",
+      "incidents": 17,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Short-billed dowitcher",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Silver-haired bat",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Sky lark",
+      "incidents": 11,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Snowy egret",
+      "incidents": 5,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Snowy plover",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Song sparrow",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Sooty tern",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Spotted dove",
+      "incidents": 49,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Spotted sandpiper",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Striped skunk",
+      "incidents": 4,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Swallows",
+      "incidents": 43,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Swamp sparrow",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Thayer's gull",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Tropical mockingbird",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Upland sandpiper",
+      "incidents": 24,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Vaux's swift",
+      "incidents": 6,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Veery",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Vesper sparrow",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Violet-green swallow",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Virginia opossum",
+      "incidents": 14,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Western bluebird",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Western kingbird",
+      "incidents": 17,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Western tanager",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "White tern",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "White-crowned sparrow",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "White-eyed vireo",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "White-faced ibis",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 2
+    },
+    {
+      "species": "White-tailed jackrabbit",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "White-throated munia",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "White-throated sparrow",
+      "incidents": 15,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "White-throated swift",
+      "incidents": 4,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "White-winged dove",
+      "incidents": 6,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Willet",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Wilson's phalarope",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Wilson's plover",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Wilson's warbler",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Wood warblers",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Woodchuck",
+      "incidents": 6,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Yellow bittern",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Yellow warbler",
+      "incidents": 3,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Yellow-bellied sapsucker",
+      "incidents": 6,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Yellow-billed cuckoo",
+      "incidents": 2,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Yellow-billed magpie",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Yellow-breasted chat",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    },
+    {
+      "species": "Yellow-crowned night-heron",
+      "incidents": 4,
+      "total_reported_cost": 0,
+      "damaged_incidents": 1
+    },
+    {
+      "species": "Yellow-headed blackbird",
+      "incidents": 1,
+      "total_reported_cost": 0,
+      "damaged_incidents": 0
+    }
+  ],
+  "quality": [
+    {
+      "rule": "ALTITUDE_BOUNDARY",
+      "issues": 825,
+      "affected_records": 825
+    },
+    {
+      "rule": "AIRPORT_MISSING",
+      "issues": 129,
+      "affected_records": 129
+    },
+    {
+      "rule": "ALTITUDE_MISSING",
+      "issues": 129,
+      "affected_records": 129
+    },
+    {
+      "rule": "BIRD_COUNT_MISSING_OR_CATEGORY",
+      "issues": 129,
+      "affected_records": 129
+    },
+    {
+      "rule": "MISSING_OR_INVALID_DATE",
+      "issues": 129,
+      "affected_records": 129
+    },
+    {
+      "rule": "ALTITUDE_MISMATCH",
+      "issues": 2,
+      "affected_records": 2
+    },
+    {
+      "rule": "INVALID_NONNEGATIVE_INTEGER",
+      "issues": 1,
+      "affected_records": 1
+    }
+  ],
+  "weather": [
+    {
+      "precipitation": "None",
+      "incidents": 23506
+    },
+    {
+      "precipitation": "Rain",
+      "incidents": 1350
+    },
+    {
+      "precipitation": "Fog",
+      "incidents": 475
+    },
+    {
+      "precipitation": "Snow",
+      "incidents": 89
+    },
+    {
+      "precipitation": "Fog, Rain",
+      "incidents": 85
+    },
+    {
+      "precipitation": "Rain, Snow",
+      "incidents": 6
+    },
+    {
+      "precipitation": "Fog, Snow",
+      "incidents": 4
+    },
+    {
+      "precipitation": "Fog, Rain, Snow",
+      "incidents": 3
+    }
+  ],
+  "audit": [
+    {
+      "batch": "Base",
+      "file_sha256": "cdf0eea303ffc3d9f352052d2b3614c213da502486a52604e7ce4a90afff39a5",
+      "encoding": "cp1252",
+      "input_rows": 13206,
+      "blank_rows": 0,
+      "valid_rows": 13206,
+      "inserts": 13206,
+      "updates": 0,
+      "deletes": 0,
+      "unchanged": 0,
+      "state_rows": 13206,
+      "run_at_utc": "2026-10-26T03:50:03.096364+00:00"
+    },
+    {
+      "batch": "Day 1",
+      "file_sha256": "0d93c3f8a6599cd236f5da384781af3cd5ac9fd3477481dc483bc77db97b45f5",
+      "encoding": "utf-8-sig",
+      "input_rows": 12355,
+      "blank_rows": 7747,
+      "valid_rows": 4608,
+      "inserts": 4605,
+      "updates": 3,
+      "deletes": 0,
+      "unchanged": 0,
+      "state_rows": 17811,
+      "run_at_utc": "2026-10-26T03:50:03.441504+00:00"
+    },
+    {
+      "batch": "Day 2",
+      "file_sha256": "239871df66753138635b9156c920c0c5f3ce1e4b77909e98fa4e0672d9dc9f91",
+      "encoding": "cp1252",
+      "input_rows": 6104,
+      "blank_rows": 2805,
+      "valid_rows": 3299,
+      "inserts": 3197,
+      "updates": 0,
+      "deletes": 0,
+      "unchanged": 102,
+      "state_rows": 21008,
+      "run_at_utc": "2026-10-26T03:50:03.759288+00:00"
+    },
+    {
+      "batch": "Day 3",
+      "file_sha256": "011d53125fac26bf719fc7ceb1fbb66b80141ff7940a7454d9106cc1e9b9f6e4",
+      "encoding": "utf-8-sig",
+      "input_rows": 3650,
+      "blank_rows": 1833,
+      "valid_rows": 1817,
+      "inserts": 1647,
+      "updates": 170,
+      "deletes": 0,
+      "unchanged": 0,
+      "state_rows": 22655,
+      "run_at_utc": "2026-10-26T03:50:04.058383+00:00"
+    },
+    {
+      "batch": "Final",
+      "file_sha256": "d82fc7ef5f0587d5524a8a303b5b514e89caa2e66f58f4b6658c82d228404ecc",
+      "encoding": "cp1252",
+      "input_rows": 25518,
+      "blank_rows": 0,
+      "valid_rows": 25518,
+      "inserts": 2903,
+      "updates": 22615,
+      "deletes": 40,
+      "unchanged": 0,
+      "state_rows": 25518,
+      "run_at_utc": "2026-10-26T03:50:05.336184+00:00"
+    }
+  ],
+  "totals": {
+    "incidents": 25518,
+    "damaged_incidents": 2465,
+    "total_reported_cost": 142061425,
+    "missing_dates": 129,
+    "first_date": "2000-01-02",
+    "last_date": "2011-12-31",
+    "flagged_incidents": 957
+  },
+  "through": "Final"
+}

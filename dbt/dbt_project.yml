@@ -1,0 +1,14 @@
+name: bird_strikes
+version: '2.0.0'
+config-version: 2
+profile: bird_strikes
+model-paths: [models]
+test-paths: [tests]
+macro-paths: [macros]
+clean-targets: [target, dbt_packages]
+models:
+  bird_strikes:
+    +materialized: table
+    +persist_docs:
+      relation: true
+      columns: true

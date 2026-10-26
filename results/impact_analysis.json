@@ -1,0 +1,81 @@
+{
+  "species": [
+    {
+      "species": "Canada goose",
+      "incidents": 370,
+      "cost": 20664597,
+      "damaged": 209,
+      "positive_cost": 90,
+      "damage_pct": 56.49,
+      "mean_reported_cost": 55850.26
+    },
+    {
+      "species": "White-tailed deer",
+      "incidents": 85,
+      "cost": 17155662,
+      "damaged": 79,
+      "positive_cost": 68,
+      "damage_pct": 92.94,
+      "mean_reported_cost": 201831.32
+    },
+    {
+      "species": "Unknown bird - medium",
+      "incidents": 4316,
+      "cost": 9953298,
+      "damaged": 509,
+      "positive_cost": 201,
+      "damage_pct": 11.79,
+      "mean_reported_cost": 2306.14
+    },
+    {
+      "species": "Bald eagle",
+      "incidents": 52,
+      "cost": 7723932,
+      "damaged": 25,
+      "positive_cost": 14,
+      "damage_pct": 48.08,
+      "mean_reported_cost": 148537.15
+    },
+    {
+      "species": "Unknown bird - large",
+      "incidents": 796,
+      "cost": 7342719,
+      "damaged": 285,
+      "positive_cost": 81,
+      "damage_pct": 35.8,
+      "mean_reported_cost": 9224.52
+    },
+    {
+      "species": "Turkey vulture",
+      "incidents": 178,
+      "cost": 6705265,
+      "damaged": 95,
+      "positive_cost": 44,
+      "damage_pct": 53.37,
+      "mean_reported_cost": 37670.03
+    },
+    {
+      "species": "White-tailed kite",
+      "incidents": 7,
+      "cost": 5704387,
+      "damaged": 2,
+      "positive_cost": 1,
+      "damage_pct": 28.57,
+      "mean_reported_cost": 814912.43
+    },
+    {
+      "species": "Greater white-fronted goose",
+      "incidents": 19,
+      "cost": 4348994,
+      "damaged": 12,
+      "positive_cost": 4,
+      "damage_pct": 63.16,
+      "mean_reported_cost": 228894.42
+    }
+  ],
+  "total_incidents": 25518,
+  "total_reported_cost": 142061425,
+  "positive_cost_incidents": 1223,
+  "damaged_incidents": 2465,
+  "positive_cost_pct": 4.792695352300337
+}

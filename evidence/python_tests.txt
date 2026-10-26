@@ -1,0 +1,32 @@
+test_bad_snapshot_key_is_rejected (test_pipeline.BehaviorTests.test_bad_snapshot_key_is_rejected) ... ok
+test_count_range_check (test_pipeline.BehaviorTests.test_count_range_check) ... ok
+test_daily_omission_is_not_deletion_and_snapshot_is (test_pipeline.BehaviorTests.test_daily_omission_is_not_deletion_and_snapshot_is) ... ok
+test_daily_update_preserves_absent_column_but_clears_explicit_blank (test_pipeline.BehaviorTests.test_daily_update_preserves_absent_column_but_clears_explicit_blank) ... ok
+test_end_to_end_and_rerun (test_pipeline.BehaviorTests.test_end_to_end_and_rerun) ... ok
+test_precipitation_and_altitude_boundary (test_pipeline.BehaviorTests.test_precipitation_and_altitude_boundary) ... ok
+test_reapplying_batch_has_no_changes (test_pipeline.BehaviorTests.test_reapplying_batch_has_no_changes) ... ok
+test_dimension_keys_distinguish_null_empty_and_delimiters (tests.test_safety.ChangeSafetyTests.test_dimension_keys_distinguish_null_empty_and_delimiters) ... ok
+test_envelope_contains_combined_weather_and_compact_patch (tests.test_safety.ChangeSafetyTests.test_envelope_contains_combined_weather_and_compact_patch) ... ok
+test_exact_threshold_allowed (tests.test_safety.ChangeSafetyTests.test_exact_threshold_allowed) ... ok
+test_override_requires_reason (tests.test_safety.ChangeSafetyTests.test_override_requires_reason) ... ok
+test_real_day2_missing_column (tests.test_safety.ChangeSafetyTests.test_real_day2_missing_column) ... ok
+test_snowflake_identifier_injection_rejected (tests.test_safety.ChangeSafetyTests.test_snowflake_identifier_injection_rejected) ... ok
+test_threshold_rejects_before_mutation (tests.test_safety.ChangeSafetyTests.test_threshold_rejects_before_mutation) ... ok
+test_update_patch_only_contains_changed_field (tests.test_safety.ChangeSafetyTests.test_update_patch_only_contains_changed_field) ... ok
+test_cp1252_fallback (tests.test_safety.InputTests.test_cp1252_fallback) ... ok
+test_duplicate_key_rejected (tests.test_safety.InputTests.test_duplicate_key_rejected) ... ok
+test_empty_batch_rejected (tests.test_safety.InputTests.test_empty_batch_rejected) ... ok
+test_large_integer_is_not_rounded_by_float (tests.test_safety.InputTests.test_large_integer_is_not_rounded_by_float) ... ok
+test_nonfinite_number_rejected (tests.test_safety.InputTests.test_nonfinite_number_rejected) ... ok
+test_unapproved_column_rejected (tests.test_safety.InputTests.test_unapproved_column_rejected) ... ok
+test_late_export_failure_preserves_entire_release (tests.test_safety.PublicationTests.test_late_export_failure_preserves_entire_release) ... ok
+test_manifest_change_rejected (tests.test_safety.PublicationTests.test_manifest_change_rejected) ... ok
+test_resume_applies_only_new_batch (tests.test_safety.PublicationTests.test_resume_applies_only_new_batch) ... ok
+test_single_writer_lock (tests.test_safety.PublicationTests.test_single_writer_lock) ... ok
+test_cloud_ddl_precedes_transaction (tests.test_safety.SnowflakeTransactionTests.test_cloud_ddl_precedes_transaction) ... ok
+test_cloud_failure_rolls_back (tests.test_safety.SnowflakeTransactionTests.test_cloud_failure_rolls_back) ... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 18.744s
+
+OK

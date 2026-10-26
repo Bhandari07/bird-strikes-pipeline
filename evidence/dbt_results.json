@@ -1,0 +1,272 @@
+{
+  "adapter": "DuckDB",
+  "dbt_version": "1.9.10",
+  "generated_at": "2026-10-26T03:58:04.701852Z",
+  "results": [
+    {
+      "unique_id": "model.bird_strikes.quality_issues",
+      "status": "success",
+      "execution_time": 0.0867300033569336
+    },
+    {
+      "unique_id": "test.bird_strikes.source_not_null_ingestion_strike_current_record_id.fbcdef1b76",
+      "status": "pass",
+      "execution_time": 0.030427217483520508
+    },
+    {
+      "unique_id": "test.bird_strikes.source_unique_ingestion_strike_current_record_id.33bab264b9",
+      "status": "pass",
+      "execution_time": 0.029184341430664062
+    },
+    {
+      "unique_id": "model.bird_strikes.stg_strikes",
+      "status": "success",
+      "execution_time": 1.2835137844085693
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_stg_strikes_record_id.7d932061f6",
+      "status": "pass",
+      "execution_time": 0.012830018997192383
+    },
+    {
+      "unique_id": "test.bird_strikes.unique_stg_strikes_record_id.ceb4e88192",
+      "status": "pass",
+      "execution_time": 0.01648092269897461
+    },
+    {
+      "unique_id": "model.bird_strikes.dim_aircraft",
+      "status": "success",
+      "execution_time": 0.05441403388977051
+    },
+    {
+      "unique_id": "model.bird_strikes.dim_airport",
+      "status": "success",
+      "execution_time": 0.05559229850769043
+    },
+    {
+      "unique_id": "model.bird_strikes.dim_date",
+      "status": "success",
+      "execution_time": 0.05565333366394043
+    },
+    {
+      "unique_id": "model.bird_strikes.dim_operator",
+      "status": "success",
+      "execution_time": 0.04921889305114746
+    },
+    {
+      "unique_id": "model.bird_strikes.dim_phase",
+      "status": "success",
+      "execution_time": 0.049655914306640625
+    },
+    {
+      "unique_id": "model.bird_strikes.dim_weather",
+      "status": "success",
+      "execution_time": 0.06088972091674805
+    },
+    {
+      "unique_id": "model.bird_strikes.dim_wildlife",
+      "status": "success",
+      "execution_time": 0.05300736427307129
+    },
+    {
+      "unique_id": "model.bird_strikes.fact_strike",
+      "status": "success",
+      "execution_time": 0.14204978942871094
+    },
+    {
+      "unique_id": "model.bird_strikes.reporting_strikes",
+      "status": "success",
+      "execution_time": 0.3165748119354248
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_dim_aircraft_aircraft_key.75a6634718",
+      "status": "pass",
+      "execution_time": 0.01443171501159668
+    },
+    {
+      "unique_id": "test.bird_strikes.unique_dim_aircraft_aircraft_key.7d615dc9a5",
+      "status": "pass",
+      "execution_time": 0.013478755950927734
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_dim_airport_airport_key.2c5a13af69",
+      "status": "pass",
+      "execution_time": 0.012910127639770508
+    },
+    {
+      "unique_id": "test.bird_strikes.unique_dim_airport_airport_key.adf0e279ae",
+      "status": "pass",
+      "execution_time": 0.013027667999267578
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_dim_date_date_key.881d0a31b6",
+      "status": "pass",
+      "execution_time": 0.011954069137573242
+    },
+    {
+      "unique_id": "test.bird_strikes.unique_dim_date_date_key.0869fd48f9",
+      "status": "pass",
+      "execution_time": 0.012979984283447266
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_dim_operator_operator_key.7ae2c460c3",
+      "status": "pass",
+      "execution_time": 0.011534690856933594
+    },
+    {
+      "unique_id": "test.bird_strikes.unique_dim_operator_operator_key.614b4c97fe",
+      "status": "pass",
+      "execution_time": 0.013467550277709961
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_dim_phase_phase_key.ac9c95f8d6",
+      "status": "pass",
+      "execution_time": 0.012983322143554688
+    },
+    {
+      "unique_id": "test.bird_strikes.unique_dim_phase_phase_key.88ba074bca",
+      "status": "pass",
+      "execution_time": 0.012200593948364258
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_dim_weather_weather_key.a28481207b",
+      "status": "pass",
+      "execution_time": 0.011281490325927734
+    },
+    {
+      "unique_id": "test.bird_strikes.unique_dim_weather_weather_key.74dbf3874c",
+      "status": "pass",
+      "execution_time": 0.01281881332397461
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_dim_wildlife_wildlife_key.2e4f4aa54b",
+      "status": "pass",
+      "execution_time": 0.011803388595581055
+    },
+    {
+      "unique_id": "test.bird_strikes.unique_dim_wildlife_wildlife_key.607dee9478",
+      "status": "pass",
+      "execution_time": 0.013825416564941406
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_fact_strike_aircraft_key.62d894b80c",
+      "status": "pass",
+      "execution_time": 0.01249837875366211
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_fact_strike_airport_key.26a40c6433",
+      "status": "pass",
+      "execution_time": 0.01164865493774414
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_fact_strike_date_key.259f9938f5",
+      "status": "pass",
+      "execution_time": 0.012543916702270508
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_fact_strike_operator_key.d81bedc7a2",
+      "status": "pass",
+      "execution_time": 0.011817216873168945
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_fact_strike_phase_key.5c49c04592",
+      "status": "pass",
+      "execution_time": 0.012738227844238281
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_fact_strike_record_id.e036e1d531",
+      "status": "pass",
+      "execution_time": 0.015092134475708008
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_fact_strike_weather_key.b819418d5d",
+      "status": "pass",
+      "execution_time": 0.012250423431396484
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_fact_strike_wildlife_key.2c0f9f1bcb",
+      "status": "pass",
+      "execution_time": 0.016318321228027344
+    },
+    {
+      "unique_id": "test.bird_strikes.quality_reconciliation",
+      "status": "pass",
+      "execution_time": 0.013530492782592773
+    },
+    {
+      "unique_id": "test.bird_strikes.reconcile_current",
+      "status": "pass",
+      "execution_time": 0.013074874877929688
+    },
+    {
+      "unique_id": "test.bird_strikes.relationships_fact_strike_aircraft_key__aircraft_key__ref_dim_aircraft_.a5bf9d8ea7",
+      "status": "pass",
+      "execution_time": 0.013936519622802734
+    },
+    {
+      "unique_id": "test.bird_strikes.relationships_fact_strike_airport_key__airport_key__ref_dim_airport_.79cf4058ed",
+      "status": "pass",
+      "execution_time": 0.015758514404296875
+    },
+    {
+      "unique_id": "test.bird_strikes.relationships_fact_strike_date_key__date_key__ref_dim_date_.3d89756be3",
+      "status": "pass",
+      "execution_time": 0.013891935348510742
+    },
+    {
+      "unique_id": "test.bird_strikes.relationships_fact_strike_operator_key__operator_key__ref_dim_operator_.89f9a8619c",
+      "status": "pass",
+      "execution_time": 0.013250350952148438
+    },
+    {
+      "unique_id": "test.bird_strikes.relationships_fact_strike_phase_key__phase_key__ref_dim_phase_.61b0eea0aa",
+      "status": "pass",
+      "execution_time": 0.013607263565063477
+    },
+    {
+      "unique_id": "test.bird_strikes.relationships_fact_strike_weather_key__weather_key__ref_dim_weather_.14560c9fd9",
+      "status": "pass",
+      "execution_time": 0.014156579971313477
+    },
+    {
+      "unique_id": "test.bird_strikes.relationships_fact_strike_wildlife_key__wildlife_key__ref_dim_wildlife_.562c2663ff",
+      "status": "pass",
+      "execution_time": 0.015337467193603516
+    },
+    {
+      "unique_id": "test.bird_strikes.unique_fact_strike_record_id.a8fee078c2",
+      "status": "pass",
+      "execution_time": 0.015048027038574219
+    },
+    {
+      "unique_id": "test.bird_strikes.valid_measures",
+      "status": "pass",
+      "execution_time": 0.011595010757446289
+    },
+    {
+      "unique_id": "test.bird_strikes.assessment_expected",
+      "status": "pass",
+      "execution_time": 0.014562368392944336
+    },
+    {
+      "unique_id": "test.bird_strikes.not_null_reporting_strikes_record_id.4654bddfdd",
+      "status": "pass",
+      "execution_time": 0.012029647827148438
+    },
+    {
+      "unique_id": "test.bird_strikes.unique_reporting_strikes_record_id.5bf9bc64bb",
+      "status": "pass",
+      "execution_time": 0.016469478607177734
+    },
+    {
+      "unique_id": "model.bird_strikes.annual",
+      "status": "success",
+      "execution_time": 0.03099513053894043
+    },
+    {
+      "unique_id": "model.bird_strikes.species_impact",
+      "status": "success",
+      "execution_time": 0.03057861328125
+    }
+  ]
+}

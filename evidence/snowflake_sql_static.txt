@@ -1,0 +1,4 @@
+'ALTER SCHEMA BUILD SWAP WITH MART' contains unsupported syntax. Falling back to parsing as a 'Command'.
+Parsed 27 SQL statements in the Snowflake dialect; 1 command(s) require server validation.
+Not validated by parser: ['ALTER SCHEMA BUILD SWAP WITH MART']
+No live account execution performed.

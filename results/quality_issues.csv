@@ -1,0 +1,1345 @@
+record_id,rule,field,source_value,detail,source_file
+200036,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+200104,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+200123,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+200402,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+200763,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+200830,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+200830,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+200830,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+200830,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+200851,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+200891,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+200939,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+200947,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+201005,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+201020,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+201331,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+201356,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+201436,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+201506,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+201705,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+201941,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+201979,ALTITUDE_MISMATCH,Altitude bin,> 1000 ft,Height is 100 feet,Bird Strikes - Final.csv
+202076,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+202113,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+202140,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+202455,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+202457,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+202457,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+202457,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+202457,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+202486,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+202734,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+202766,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+202777,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+203098,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+203176,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+203184,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+203217,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+203333,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+203348,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+203353,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+203353,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+203353,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+203353,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+203442,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+203490,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+203616,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+204055,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+204057,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+204205,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+204217,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+204230,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+204256,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+204413,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+204417,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+204542,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+204542,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+204542,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+204542,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+204804,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+205030,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+205094,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+205128,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+205135,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+205229,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+205273,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+205473,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+205473,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+205473,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+205473,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+205583,ALTITUDE_MISMATCH,Altitude bin,< 1000 ft,Height is 10000 feet,Bird Strikes - Final.csv
+205645,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+205652,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+206016,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+206064,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+206127,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+206203,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+206419,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+206419,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+206419,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+206419,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+206428,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+206453,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+206456,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+206560,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+206597,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+206675,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+206871,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+206878,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+206990,INVALID_NONNEGATIVE_INTEGER,Aircraft: Number of engines?,C,Must be a nonnegative whole number,Bird Strikes - Final.csv
+207135,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+207170,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+207269,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+207340,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+207360,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+207428,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+207513,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+207513,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+207513,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+207513,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+207638,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+207657,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+207788,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+207804,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+208052,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+208097,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+208170,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+208342,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+208525,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+208561,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+208561,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+208561,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+208561,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+208590,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+208599,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+208698,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+208809,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+208837,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+208875,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+208911,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+208947,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+209150,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+209233,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+209264,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+209353,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+209353,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+209353,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+209353,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+209483,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+209541,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+209584,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+209608,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+209764,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+209815,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+209987,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+210131,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+210191,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+210283,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+210283,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+210283,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+210283,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+210347,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+210436,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+210436,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+210436,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+210436,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+210803,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+210899,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+211360,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+211485,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+211504,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+211667,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+211715,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+211715,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+211715,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+211715,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+212016,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+212056,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+212259,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+212259,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+212259,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+212259,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+212927,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+212929,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+213131,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+213192,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+213218,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+213218,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+213218,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+213218,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+213299,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+213336,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+213367,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+213423,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+213524,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+213552,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+213812,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+213825,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+213825,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+213825,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+213825,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+213876,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+213900,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+213924,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+213924,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+213924,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+213924,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+214038,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+214277,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+214300,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+214544,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+214674,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+214682,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+215352,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+215352,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+215352,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+215352,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+215532,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+215552,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+215833,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+216025,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+216141,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+216443,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+216456,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+216887,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+217213,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+217420,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+217519,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+217519,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+217519,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+217519,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+217675,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+217716,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+217868,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+217874,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+217874,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+217874,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+217874,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+217982,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+218089,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+218122,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+218138,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+218166,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+218194,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+218241,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+218264,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+218324,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+218508,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+218562,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+218594,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+218816,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+219006,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+219170,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+219249,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+219551,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+219586,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+219742,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+219840,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+220068,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+220116,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+220297,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+220375,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+220408,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+220437,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+220438,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+220529,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+220530,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+220542,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+220657,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+220736,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+221096,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+221215,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+221215,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+221215,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+221215,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+221340,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+221455,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+221458,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+221586,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+221713,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+221768,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+221990,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+222077,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+222077,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+222077,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+222077,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+222078,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+222129,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+222218,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+222458,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+222586,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+222628,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+222808,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+223119,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+223432,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+223759,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+223834,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+223924,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+223943,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+223943,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+223943,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+223943,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+224017,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+224130,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+224256,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+224264,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+224369,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+224379,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+224399,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+224604,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+224690,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+224947,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+225140,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+225193,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+225275,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+225348,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+225360,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+225413,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+225493,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+225522,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+225547,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+225550,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+225710,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+226274,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+226310,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+226347,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+226349,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+226729,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+226847,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+226998,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+227071,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+227222,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+227299,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+227465,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+227696,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+227902,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+227932,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+228262,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+228440,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+228577,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+228602,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+228632,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+228632,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+228632,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+228632,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+228724,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+228905,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+229010,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+229043,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+229597,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+229693,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+229733,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+229988,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+230140,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+230178,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+230218,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+230856,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+231060,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+231063,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+231089,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+231162,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+231522,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+231532,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+231543,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+231722,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+231866,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+232063,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+232104,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+232360,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+232411,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+232411,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+232411,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+232411,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+232436,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+232547,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+232586,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+232627,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+232647,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+232817,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+232830,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+232916,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+232938,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+232973,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+233036,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+233233,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+233386,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+233457,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+233481,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+233724,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+233832,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+233874,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+234068,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+234159,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+234304,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+234311,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+234500,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+234765,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+234996,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+235123,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+235189,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+235530,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+235684,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+235684,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+235684,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+235684,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+235705,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+235725,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+235809,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+235859,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+235875,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+235951,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+236087,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+236157,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+236206,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+236369,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+236369,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+236369,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+236369,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+236435,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+236514,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+236625,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+236716,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+236761,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+236910,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+237038,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+237205,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+237492,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+237788,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+238069,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+238186,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+238189,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+238229,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+238283,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+238311,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+238311,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+238311,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+238311,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+238439,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+238496,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+238703,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+238726,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+238933,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+238978,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+238979,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+238989,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+239134,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+239197,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+239470,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+239470,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+239470,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+239470,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+239590,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+239714,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+239749,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+239890,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+239961,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+240086,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+240094,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+240107,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+240122,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+240302,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+240353,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+240532,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+240577,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+240654,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+240675,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+240783,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+240798,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+240812,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+240855,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+240855,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+240855,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+240855,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+241042,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+241134,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+241173,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+241208,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+241208,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+241208,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+241208,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+241253,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+241278,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+241310,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+241506,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+241530,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+241617,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+241665,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+241835,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+241862,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+242029,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+242055,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+242155,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+242182,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+242229,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+242325,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+242433,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+242533,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+242561,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+242610,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+242665,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+242674,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+242727,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+242752,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+242945,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+243067,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+243131,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+243299,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+243434,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+243676,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+243710,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+243916,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+243920,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+243927,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+243942,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+243945,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+244091,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+244127,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+244358,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+244425,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+244473,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+244612,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+244680,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+244802,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+244805,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+244814,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+245123,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+245540,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+245577,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+245661,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+245887,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+246006,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+246085,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+246152,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+246248,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+246288,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+246348,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+246354,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+246411,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+246413,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+246570,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+246637,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+246719,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+246727,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+246727,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+246727,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+246727,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+246819,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+246853,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+247630,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+247648,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+247731,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+247794,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+247969,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+248016,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+248200,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+248359,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+248726,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+248887,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+249013,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+249021,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+249108,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+249284,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+249379,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+249461,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+249503,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+249632,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+249745,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+249905,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+249905,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+249905,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+249905,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+250058,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+250219,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+250244,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+250263,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+250610,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+250620,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+250649,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+250861,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+250861,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+250861,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+250861,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+250879,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+251040,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+251140,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+251287,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+251327,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+251372,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+251532,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+251574,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+251691,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+251807,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+251807,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+251807,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+251807,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+251868,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+251888,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+251917,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252008,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252033,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252036,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252048,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252064,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252102,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252136,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252330,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252422,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252460,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252659,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252700,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252725,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252749,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252775,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252835,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+252955,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+253050,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+253050,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+253050,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+253050,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+253215,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+253249,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+253249,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+253249,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+253249,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+253295,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+253331,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+253476,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+253476,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+253476,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+253476,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+253681,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+253730,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+253785,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+253785,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+253785,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+253785,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+253830,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+253848,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+253926,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+254548,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+254548,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+254548,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+254548,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+254613,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+254613,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+254613,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+254613,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+254633,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+254902,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+254918,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+254990,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+255100,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+255307,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+255327,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+255441,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+255441,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+255441,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+255441,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+255514,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+255864,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+255966,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+255987,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+256087,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+256308,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+256308,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+256308,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+256308,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+256526,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+256526,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+256526,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+256526,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+256622,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+256764,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+256785,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+256812,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+256848,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+256848,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+256848,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+256848,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+257341,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+257457,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+257553,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+257666,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+257830,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+257887,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+257954,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+258005,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+258314,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+258375,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+258407,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+258668,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+258686,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+258775,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+258809,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+258843,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+258956,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+259078,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+259279,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+259279,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+259279,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+259279,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+259305,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+259305,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+259305,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+259305,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+259329,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+259447,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+259455,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+259469,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+259647,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+259671,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+259731,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+259731,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+259731,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+259731,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+259978,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+259992,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260072,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260135,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260190,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260213,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260249,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260256,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260294,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260427,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260442,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260446,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260515,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260610,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260653,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260715,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260751,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260786,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260824,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+260824,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+260824,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+260824,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+260854,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+260994,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+261159,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+261194,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+261210,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+261232,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+261316,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+261365,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+261454,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+261465,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+262085,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+262204,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+262215,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+262358,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+262397,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+262412,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+262536,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+262609,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+262697,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+262756,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+262828,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+262831,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+262883,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+263072,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+263129,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+263203,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+263281,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+263392,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+263513,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+263527,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+263530,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+263561,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+263561,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+263561,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+263561,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+263633,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+263643,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+263901,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+263915,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+264210,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+264245,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+264301,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+264466,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+264552,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+264582,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+264725,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+264736,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+264832,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+264842,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+264842,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+264842,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+264842,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+264866,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+264904,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+264904,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+264904,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+264904,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+265045,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+265156,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+265156,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+265156,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+265156,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+265211,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+265321,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+265454,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+265511,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+265516,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+265516,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+265516,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+265516,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+265543,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+265595,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+265643,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+265719,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+265875,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+265947,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+265949,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266007,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266028,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266030,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266032,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266107,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266307,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266386,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266479,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+266479,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+266479,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+266479,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+266516,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266527,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266547,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266549,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266607,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266661,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266861,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266905,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266913,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+266948,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+267088,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+267089,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+267100,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+267120,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+267120,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+267120,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+267120,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+267180,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+267221,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+267235,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+267510,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+267642,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+267642,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+267642,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+267642,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+267686,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+267846,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+267923,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+267984,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+267984,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+267984,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+267984,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+268137,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+268285,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+268292,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+268299,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+268386,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+268428,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+268494,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+268543,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+268543,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+268543,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+268543,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+268583,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+268663,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+268690,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+268691,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+268710,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+268710,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+268710,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+268710,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+268796,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+268802,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+268863,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+269017,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+269030,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+269189,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+269261,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+269261,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+269261,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+269261,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+269334,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+269361,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+269397,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+269456,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+269456,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+269456,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+269456,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+269521,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+269535,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+269712,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+269849,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+300102,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+300120,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+300444,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+300503,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+300529,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+300546,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+300577,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+300756,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+300801,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+300838,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+300930,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+300930,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+300930,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+300930,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+300963,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+300963,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+300963,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+300963,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+301028,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+301113,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+301149,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+301170,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+301185,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+301252,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+301290,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+301290,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+301290,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+301290,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+301337,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+301337,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+301337,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+301337,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+301498,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+301498,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+301498,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+301498,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+301637,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+301690,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+301690,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+301690,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+301690,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+301713,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+301713,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+301713,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+301713,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+301780,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+301780,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+301780,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+301780,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+301826,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+301858,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+301865,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+301907,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+301939,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+301942,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+301942,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+301942,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+301942,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+301943,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+301943,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+301943,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+301943,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+302167,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+302218,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+302279,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+302376,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+302376,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+302376,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+302376,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+302381,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+302381,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+302381,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+302381,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+302429,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+302471,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+302471,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+302471,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+302471,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+302477,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+302574,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+302637,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+302643,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+302643,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+302643,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+302643,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+302881,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+302884,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+302884,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+302884,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+302884,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+303081,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+303227,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+303227,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+303227,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+303227,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+303248,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+303254,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+303254,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+303254,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+303254,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+303351,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+303358,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+303376,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+303376,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+303376,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+303376,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+303412,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+303872,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+304039,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+304057,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+304205,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+304212,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+304212,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+304212,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+304212,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+304397,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+304579,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+304579,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+304579,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+304579,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+304724,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+304724,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+304724,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+304724,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+304746,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+304855,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+305450,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+305604,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+305622,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+305912,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+305953,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+305953,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+305953,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+305953,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+306009,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+306138,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+306147,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+306149,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+306160,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+306160,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+306160,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+306160,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+306204,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+306252,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+306313,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+306316,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+306773,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+306840,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+306840,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+306840,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+306840,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+306917,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+307113,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+307185,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+307268,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+307270,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+307309,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+307381,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+307414,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+307425,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+307483,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+307519,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+307519,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+307519,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+307519,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+307588,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+307588,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+307588,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+307588,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+307630,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+307630,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+307630,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+307630,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+307634,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+307662,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+307662,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+307662,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+307662,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+307724,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+308043,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+308045,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+308072,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+308152,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+308153,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+308261,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+308465,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+308468,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+308487,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+308517,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+308562,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+308900,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+309158,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+309170,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+309200,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+309321,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+309390,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+309444,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+309562,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+309694,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+309708,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+309708,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+309708,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+309708,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+309829,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+309846,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+309846,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+309846,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+309846,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+309879,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+309879,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+309879,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+309879,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+309905,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+309968,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+309968,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+309968,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+309968,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+309973,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+309973,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+309973,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+309973,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+310289,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+310606,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+310630,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+310709,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+310714,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+310735,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+310735,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+310735,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+310735,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+310910,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+310918,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+310918,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+310918,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+310918,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+310964,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+310975,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+310999,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+311007,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+311021,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+311416,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+311447,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+311495,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+311643,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+311697,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+311697,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+311697,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+311697,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+311762,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+311762,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+311762,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+311762,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+311968,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+311991,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+311999,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+312045,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+312045,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+312045,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+312045,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+312066,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+312066,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+312066,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+312066,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+312211,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+312246,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+312332,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+312397,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+312434,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+312460,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+312598,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+312628,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+312628,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+312628,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+312628,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+312637,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+312936,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+312994,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+312994,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+312994,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+312994,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+313106,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+313154,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+313252,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+313276,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+313295,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+313295,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+313295,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+313295,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+313318,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+313340,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+313402,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+313501,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+313501,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+313501,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+313501,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+313585,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+313585,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+313585,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+313585,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+314242,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+314388,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+314419,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+314460,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+314460,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+314460,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+314460,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+314598,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+314598,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+314598,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+314598,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+314736,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+315164,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+315313,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+315411,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+315543,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+315724,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+315725,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+315773,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+315902,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+316011,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+316118,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+316137,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+316137,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+316137,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+316137,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+316151,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+316151,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+316151,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+316151,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+316153,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+316153,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+316153,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+316153,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+316174,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+316179,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+316190,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+316204,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+316217,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+316217,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+316217,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+316217,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+316736,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+316736,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+316736,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+316736,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+316739,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+316739,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+316739,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+316739,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+316751,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+316752,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+316768,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+316832,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+316982,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+316982,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+316982,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+316982,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+317015,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+317075,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+317121,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+317197,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+317253,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+317275,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+317382,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+317396,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+317454,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+317454,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+317454,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+317454,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+317515,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+317515,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+317515,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+317515,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+317547,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+317547,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+317547,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+317547,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+317566,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+317657,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+317657,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+317657,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+317657,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+317667,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+317667,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+317667,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+317667,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+317732,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+317732,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+317732,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+317732,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+317968,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+317968,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+317968,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+317968,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+317969,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318009,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318036,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318043,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318068,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+318068,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+318068,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+318068,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+318149,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318168,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+318168,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+318168,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+318168,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+318188,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318202,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318253,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+318253,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+318253,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+318253,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+318273,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318337,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318343,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318384,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318478,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318513,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318534,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318564,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318568,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318570,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318613,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+318613,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+318613,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+318613,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+318721,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+318721,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+318721,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+318721,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+318742,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318761,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+318871,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+318871,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+318871,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+318871,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+318896,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+319085,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+319097,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+319225,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+319260,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+319324,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+319391,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+319419,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+319423,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+319446,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+319462,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+319527,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+319543,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+319543,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+319543,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+319543,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+319575,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+319680,AIRPORT_MISSING,Airport: Name,,Retained under Unknown airport,Bird Strikes - Final.csv
+319680,ALTITUDE_MISSING,Feet above ground,,Height or altitude bin missing,Bird Strikes - Final.csv
+319680,BIRD_COUNT_MISSING_OR_CATEGORY,Wildlife: Number struck,,Missing count or unsupported category,Bird Strikes - Final.csv
+319680,MISSING_OR_INVALID_DATE,FlightDate,,Expected day/month/year hour:minute,Bird Strikes - Final.csv
+319902,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+3500,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+4064,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+6481,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+6649,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+6993,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+7350,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+7351,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
+7814,ALTITUDE_BOUNDARY,Altitude bin,< 1000 ft,Exactly 1000 feet: supplier boundary definition needed,Bird Strikes - Final.csv
